@@ -1,0 +1,53 @@
+baseURL = 'https://y-matsuwitter.github.io/ctoa-engineer-training/'
+#baseURL = '/ctoa-engineer-training/'
+
+languageCode = 'ja-jp'
+contentDir = "content/ja"
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
+
+title = 'エンジニア育成WG Wiki'
+
+###############################################################################
+# Hugo - Top-level navigation (horizontal)
+###############################################################################
+[menu]
+  [[menu.main]]
+    name = "使い方"
+    weight = -101
+    url = "/docs/about/howtouse/"
+  [[menu.main]]
+    name = "Docs"
+    weight = -100
+    url = "/docs/"
+  [[menu.main]]
+    name = "GitHub"
+    weight = -99
+    url = "https://github.com/y-matsuwitter/ctoa-engineer-training"
+
+###############################################################################
+# Docsy - Site Parameters
+###############################################################################
+[params]
+copyright = "日本CTO協会 エンジニア育成WG"
+
+[params.ui]
+#  Set to true to disable breadcrumb navigation.
+breadcrumb_disable = false
+# Set to true to disable the About link in the site footer
+footer_about_disable = false
+# Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top navbar
+navbar_logo = true
+# Set to true if you don't want the top navbar to be translucent when over a `block/cover`, like on the homepage.
+navbar_translucent_over_cover_disable = false
+# Enable to show the side bar menu in its compact state.
+sidebar_menu_compact = false
+# Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
+sidebar_search_disable = false
+
+[module]
+    proxy = "direct"
+    [[module.imports]]
+    path = "github.com/google/docsy"
+    [[module.imports]]
+    path = "github.com/google/docsy/dependencies"

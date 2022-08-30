@@ -36,7 +36,9 @@ weight=20
     - [【図解】WEBアプリケーションとは？仕組みと開発言語を解説！](https://www.kagoya.jp/howto/it-glossary/web/webapplication/)
     - [WEBアプリケーションとは？仕組みを開発やフレームワークを例に解説](https://www.itmanage.co.jp/column/web-application/)
     - ！！こんな感じの資料・書籍を探す
-- [pixivエンジニアが教えるプログラミング入門](https://www.amazon.co.jp/pixiv%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80-%E6%98%9F%E6%B5%B7%E7%A4%BE%E6%96%B0%E6%9B%B8-%E9%87%91%E5%AD%90-%E9%81%94%E5%93%89/dp/4061385682)
+- Webサイトを立ち上げて動かすチュートリアル
+    - [JavaScript Primer](https://jsprimer.net/)
+    - [pixivエンジニアが教えるプログラミング入門](https://www.amazon.co.jp/dp/4061385682)
 
 ### 1-3. データベースに触れてみる
 Webサービスに欠かせないデータベースを動かしてみましょう。
@@ -48,21 +50,23 @@ Webサービスに欠かせないデータベースを動かしてみましょ�
 - [pixivエンジニアが教えるプログラミング入門](https://www.amazon.co.jp/pixiv%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80-%E6%98%9F%E6%B5%B7%E7%A4%BE%E6%96%B0%E6%9B%B8-%E9%87%91%E5%AD%90-%E9%81%94%E5%93%89/dp/4061385682)
 - ！！その他、入門系を探す
 
-### 1-4. Linuxの基礎を知る
-今後動かしていくソフトウェアは多くの場合Linuxやそれに近いOSです。
-ソフトウェアが動く土台となるLinuxの使い方の基礎を学ぶとともに、困ったらすぐ調べられる状態を目指しましょう。
-
-- [Linux標準教科書](https://linuc.org/textbooks/linux/)
-- [Linuxコマンドリファレンス](https://gihyo.jp/book/2015/978-4-7741-7404-4)
-- ！！その他Linuxのリファレンス系サイトやpaizaなどの有償コンテンツを載せる？
-
 ## 2. 基礎知識を得る
 ### 2-1. Internetの仕組みを知る
 自分のサーバにどうやってユーザーがたどり着いてファイルを受け取っているか簡単に理解しよう。
 - IPアドレス, DNSなどの仕組みの概略を知る。
 
 参考資料
-- [3分間ネットワーキング](http://www5e.biglobe.ne.jp/aji/3min/)
+- [高校情報科｜学習サイト](https://www.johoka.jp/network)
+- ！！易しめなコンテンツを探す
+
+### 2-2. Linuxの基礎を知る
+今後動かしていくソフトウェアは多くの場合Linuxやそれに近いOSです。
+ソフトウェアが動く土台となるLinuxの使い方の基礎を学ぶとともに、困ったらすぐ調べられる状態を目指しましょう。
+
+- [Linux標準教科書](https://linuc.org/textbooks/linux/)
+- [Linuxコマンドリファレンス](https://gihyo.jp/book/2015/978-4-7741-7404-4)
+- [Progate CommandLine講座](https://prog-8.com/courses/commandline)
+- ！！その他Linuxのリファレンス系サイトやpaizaなどの有償コンテンツを載せる？
 
 ## 3. プログラミングの作法を学ぶ
 プログラミングを行う上で、効率的に開発するためのノウハウを学びましょう。
@@ -88,6 +92,4 @@ gitと呼ばれるバージョン管理ソフトウェアを使うことで、�
 
 資料
 - [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
-- 発展編
-    - [Pro Git](https://progit-ja.github.io/#book)
 

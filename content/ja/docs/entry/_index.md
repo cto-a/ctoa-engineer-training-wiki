@@ -27,6 +27,12 @@ weight=20
 
 - オンライン学習サイト
     - [progate](https://prog-8.com/)
+        - プログラミング全般の入門サイト。
+    - [CS50](https://cs50.jp/)
+        - ハーバード大学のコンピューターサイエンス講義。
+- 入門書籍
+    - [独学プログラマー]
+        - Pythonを中心とした入門
 
 ### 1-2. とにかくWebサイトを立ち上げてみる
 実際にWebサイトを自分のパソコン上などで動かしてみましょう。
@@ -35,7 +41,6 @@ weight=20
 - Webサービスとは何か知る
     - [【図解】WEBアプリケーションとは？仕組みと開発言語を解説！](https://www.kagoya.jp/howto/it-glossary/web/webapplication/)
     - [WEBアプリケーションとは？仕組みを開発やフレームワークを例に解説](https://www.itmanage.co.jp/column/web-application/)
-    - ！！こんな感じの資料・書籍を探す
 - Webサイトを立ち上げて動かすチュートリアル
     - [JavaScript Primer](https://jsprimer.net/)
     - [pixivエンジニアが教えるプログラミング入門](https://www.amazon.co.jp/dp/4061385682)
@@ -47,7 +52,7 @@ Webサービスに欠かせないデータベースを動かしてみましょ�
 推薦資料
 - [progate SQL学習](https://prog-8.com/courses/sql)
 - [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial/ja)
-- [pixivエンジニアが教えるプログラミング入門](https://www.amazon.co.jp/pixiv%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80-%E6%98%9F%E6%B5%B7%E7%A4%BE%E6%96%B0%E6%9B%B8-%E9%87%91%E5%AD%90-%E9%81%94%E5%93%89/dp/4061385682)
+- [pixivエンジニアが教えるプログラミング入門](https://www.amazon.co.jp/dp/4061385682)
 - ！！その他、入門系を探す
 
 ## 2. 基礎知識を得る

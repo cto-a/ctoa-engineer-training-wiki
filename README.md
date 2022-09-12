@@ -17,7 +17,9 @@ $ hugo serve
 ```
 
 ## Deployment
-TBD...
+Github Pagesによる公開を想定しています。
+そのため、今後Github Actionsによるdeployを整備予定。
+参考：https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 ## Contents
 現状、下記構成でコンテンツを作成しています。

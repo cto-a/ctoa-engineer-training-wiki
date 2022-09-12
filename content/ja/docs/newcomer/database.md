@@ -8,6 +8,9 @@ weight=30
 
 ### スキーマ設計
 
+- [O'Reilly Japan - SQLアンチパターン](https://www.oreilly.co.jp/books/9784873115894/)
+- [失敗から学ぶ RDBの正しい歩き方：書籍案内｜技術評論社](https://gihyo.jp/book/2019/978-4-297-10408-5)
+
 ### インデックス
 
 ### トランザクションとロック

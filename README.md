@@ -5,6 +5,7 @@
 対象として、エンジニアを育成する側のCTOやEMの方々、また学ぼうとされるソフトウェアエンジニアの方を想定。
 
 ## Requirement
+- [Go](https://go.dev/doc/install)
 - CMS
     - [hugo](https://gohugo.io/)
 - template

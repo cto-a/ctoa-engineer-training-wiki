@@ -12,18 +12,18 @@ weight=30
 - [DB]({{< ref "docs/newcomer/database" >}})
 - [セキュリティ]({{< ref "docs/newcomer/security" >}})
 - [開発プロセス]({{< ref "docs/newcomer/process" >}})
-- [マインドセット]({{< ref "docs/newcomer/mindset" >}})
+- [マインドセット]({{< ref "docs/newcomer/mindset_people_management" >}})
 
 ### フロントエンドエンジニアを目指すなら
 - [frontend]({{< ref "docs/newcomer/frontend" >}})
 - [セキュリティ]({{< ref "docs/newcomer/security" >}})
 - [開発プロセス]({{< ref "docs/newcomer/process" >}})
-- [マインドセット]({{< ref "docs/newcomer/mindset" >}})
+- [マインドセット]({{< ref "docs/newcomer/mindset_people_management" >}})
 
 ### インフラエンジニアを目指すなら
 - [セキュリティ]({{< ref "docs/newcomer/security" >}})
 - [開発プロセス]({{< ref "docs/newcomer/process" >}})
-- [マインドセット]({{< ref "docs/newcomer/mindset" >}})
+- [マインドセット]({{< ref "docs/newcomer/mindset_people_management" >}})
 
 
 ## 各社のインターン課題に触れてみる

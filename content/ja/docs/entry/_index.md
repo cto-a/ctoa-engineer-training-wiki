@@ -28,6 +28,8 @@ weight=20
 - オンライン学習サイト
     - [progate](https://prog-8.com/)
         - プログラミング全般の入門サイト。
+    - [SAMURAI TERAKOYA](https://terakoya.sejuku.net/)
+        - 文字中心で学ぶプログラミングサイト
     - [CS50](https://cs50.jp/)
         - ハーバード大学のコンピューターサイエンス講義。
 - 入門書籍

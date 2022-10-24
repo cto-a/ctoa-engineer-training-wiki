@@ -13,6 +13,8 @@ weight=30
 
 ### インデックス
 
+- [SQLパフォーマンス詳解](https://sql-performance-explained.jp/)
+
 ### トランザクションとロック
 
 
@@ -20,6 +22,7 @@ weight=30
 
 ### クエリのパフォーマンス・チューニング
 
+- EXPLAINを利用して、実行計画を確認する。
 - pt-query-digest等を活用できる。
   - サイトAAAA
 - チューニング系書籍

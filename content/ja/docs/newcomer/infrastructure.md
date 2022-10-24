@@ -22,3 +22,9 @@ weight=30
 - [3分間ネットワーキング](http://www5e.biglobe.ne.jp/aji/3min/)
 - [マスタリングTCP/IP　入門編（第6版）](https://www.ohmsha.co.jp/book/9784274224478/)
 - [インフラ／ネットワークエンジニアのためのネットワーク技術＆設計入門 第2版 | SBクリエイティブ](https://www.sbcr.jp/product/4797396805/)
+
+## Microsoft Azure
+
+ブラウザ上でWeb三層システムを作りながら言葉や考え方に慣れてみる。
+
+- [作りながら覚えるMicrosoft Azure入門講座（IaaS編）](https://www.udemy.com/course/microsoft-azure-iaas-part/)

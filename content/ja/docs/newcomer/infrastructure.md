@@ -33,4 +33,5 @@ weight=30
 Cisco 機器のコマンドや操作方法を知る。
 
 - [ネットワークエンジニアとして](https://www.infraexpert.com/study/)
+  - @nakayumc: 無料でコマンドの操作方法が学べるサイトです。これからCiscoの機器を触ってコマンドを覚えたい方におすすめです。
 - [シスコ技術者認定教科書 CCNA 完全合格テキスト&問題集[対応試験]200-301](https://www.shoeisha.co.jp/book/detail/9784798165776)

@@ -37,3 +37,7 @@ Cisco 機器のコマンドや操作方法を知る。
 - [シスコ技術者認定教科書 CCNA 完全合格テキスト&問題集[対応試験]200-301](https://www.shoeisha.co.jp/book/detail/9784798165776)
   - @nakayumc: 通称、白本と言われている辞書みたいな本ですが、CCNA受験を考えている方はもちろん、VLANやACL、OSPFの勉強がしたい人にもおすすめです。
 
+Cisco Packet Tracer
+
+- [Cisco Packet Tracer のインストールと使い方 | SEの道標](https://milestone-of-se.nesuke.com/product/cisco/cisco-packet-tracer-install/)
+  - @nakayumc: Ciscoが提供している実際に機器のコマンドが叩けるシミュレーションソフトです。本やサイトを読んでインプットするだけではなく、アウトプットも大事です。

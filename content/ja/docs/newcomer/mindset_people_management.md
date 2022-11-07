@@ -15,33 +15,33 @@ weight=30
 ## 開発者の心構え
 職業エンジニアとして日々開発をする中で備えておくべきマインドセットについて。
 
-- Team Geek
+- [Team Geek](https://www.oreilly.co.jp/books/9784873116303/)
     - @y_matsuwitter: 良いチーム文化を育てるためのHRTなどの考え方を学ぶことが出来ます。
-- Googleのソフトウェア・エンジニアリング
+- [Googleのソフトウェア・エンジニアリング](https://www.oreilly.co.jp/books/9784873119656/)
     - @y_matsuwitter: Google社の開発プロセスや考え方、具体的なエンジニアリングまで広く学べる一冊
-- 達人プログラマー
+- [達人プログラマー](https://www.ohmsha.co.jp/book/9784274226298/)
     - @y_matsuwitter: ソフトウェアを開発する上での心構えを100個のtipsとしてまとめた一冊、適宜振り返りたい。
 
 ## ピープルマネジメント / チーム開発
 チームでソフトウェアを開発するということや、その過程で考えるべき人の関わり方、人のマネジメントについて学べるコンテンツを用意しました。
 
-- ピープルウェア
+- [ピープルウェア](https://bookplus.nikkei.com/atcl/catalog/13/P85240/)
     - @y_matsuwitter: 「ソフトウェア開発上の問題の多くは、技術的というより社会学的なものである」という名言を残したソフトウェアと人のあり方を書いた本。
-- エンジニアリングマネージャーのしごと
+- [エンジニアリングマネージャーのしごと](https://www.oreilly.co.jp/books/9784873119946/)
     - @y_matsuwitter : マネジメントとしての取り組みが概観できる良書です。
-- 心理学的経営
+- [心理学的経営](https://www.php.co.jp/books/detail.php?isbn=978-4-569-54136-5)
     - @y_matsuwitter: 人をマネジメントすることについて、リクルート社のマネジメントをベースに体系的に学べる本。
-- High Output Management
+- [High Output Management](https://bookplus.nikkei.com/atcl/catalog/17/P55010/)
     - @y_matsuwitter: パフォーマンス高い組織をどのように作るか、古い書籍ですが未だソフトウェア開発組織の中でも生きる考え方を得られます。
 
 ## キャリア
 長い人生の中でエンジニアとしてどのようにキャリアを選択すべきか、その指針や成長の仕方などを先人に学びましょう。
 
-- 情熱プログラマー
+- [情熱プログラマー](https://shop.ohmsha.co.jp/shopdetail/000000001848/)
     - @y_matsuwitter: 一人のエンジニアとして、自分をプロダクトと考えたならどう磨き上げていくか？という問いについて。市場選びなどキャリアをどう歩むべきか視点を得られます。
-- エンジニアのためのマネジメントキャリアパス
+- [エンジニアのためのマネジメントキャリアパス](https://www.oreilly.co.jp/books/9784873118482/)
     - @y_matsuwitter: エンジニアとして、特にマネジメントの方面でキャリアを上がっていくことを具体的に学べます。
-- SOFT SKILLS
+- [SOFT SKILLS](https://bookplus.nikkei.com/atcl/catalog/16/P51550/)
     - @y_matsuwitter: 情熱プログラマーと同じく、職業エンジニアとして納得いく成果を上げていくためのアドバイスが得られる本。
 
 ## コミュニティ

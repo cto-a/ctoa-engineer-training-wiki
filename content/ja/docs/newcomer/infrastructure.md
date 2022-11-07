@@ -25,3 +25,4 @@ weight=30
 - [3分間ネットワーキング](http://www5e.biglobe.ne.jp/aji/3min/)
 - [マスタリングTCP/IP　入門編（第6版）](https://www.ohmsha.co.jp/book/9784274224478/)
 - [インフラ／ネットワークエンジニアのためのネットワーク技術＆設計入門 第2版 | SBクリエイティブ](https://www.sbcr.jp/product/4797396805/)
+- [ネットワークがよくわかる教科書 | SBクリエイティブ ](https://www.sbcr.jp/product/4797393804/)

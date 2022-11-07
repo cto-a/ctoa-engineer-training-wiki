@@ -24,7 +24,13 @@ weight=30
 - [インフラ／ネットワークエンジニアのためのネットワーク技術＆設計入門 第2版 | SBクリエイティブ](https://www.sbcr.jp/product/4797396805/)
 
 ## Microsoft Azure
-
-ブラウザ上でWeb三層システムを作りながら言葉や考え方に慣れてみる。
-
 - [作りながら覚えるMicrosoft Azure入門講座（IaaS編）](https://www.udemy.com/course/microsoft-azure-iaas-part/)
+  - @ak_sato: ブラウザ上でWeb三層システムを作りながら言葉や考え方に慣れていく
+### Azure Kubernetes Service (AKS)
+- [Azure Cloud Shell の Bash のクイックスタート](https://learn.microsoft.com/ja-jp/azure/cloud-shell/quickstart)
+  - @ak_sato: AKS を使いこなすには CLI が必須ということで、インストール不要の Cloud Shell で `az` コマンドに慣れていく
+- [インフラエンジニアのためのKubernetesの基本](http://c.itdo.jp/technical-information/docker-kubernetes/kubernetes-basics/)
+  - @ak_sato: コンテナーのメリットと `Kubernetes` の概念的な仕組みを絵でそこそこ理解できる良記事
+- TODO: AKSのPortalで作成する感じの良い記事を探す
+- [クイック スタート:Azure CLI を使用して AKS クラスターをデプロイする - Azure Kubernetes Service | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/learn/quick-kubernetes-deploy-cli)
+  - AKSを使いこなすには kubectl が不可欠なので、その入門記事

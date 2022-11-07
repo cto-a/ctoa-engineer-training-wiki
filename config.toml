@@ -23,7 +23,7 @@ title = 'エンジニア育成WG Wiki'
   [[menu.main]]
     name = "GitHub"
     weight = -99
-    url = "https://github.com/y-matsuwitter/ctoa-engineer-training"
+    url = "https://github.com/cto-a/ctoa-engineer-training-wiki"
 
 ###############################################################################
 # Docsy - Site Parameters

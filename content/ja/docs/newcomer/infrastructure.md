@@ -16,6 +16,9 @@ weight=30
 - [catatsuy/private-isu: 社内ISUCON](https://github.com/catatsuy/private-isu)
   - 本の題材で使われた問題
 
+## Linux
+- [新しいLinuxの教科書| SBクリエイティブ ](https://www.sbcr.jp/product/4797380941/)
+
 ## ネットワーク
 
 インターネットの仕組みをより深く知る。
@@ -26,3 +29,9 @@ weight=30
   - @catatsuy: TCP/IPと言えばこの本。インフラに興味があれば一読して欲しい本です。
 - [インフラ／ネットワークエンジニアのためのネットワーク技術＆設計入門 第2版 | SBクリエイティブ](https://www.sbcr.jp/product/4797396805/)
   - @catatsuy: 実際にインフラ構築をしようとすると色々悩むと思います。そういう人におすすめです。
+- [ネットワークがよくわかる教科書 | SBクリエイティブ ](https://www.sbcr.jp/product/4797393804/)
+
+Cisco 機器のコマンドや操作方法を知る。
+
+- [ネットワークエンジニアとして](https://www.infraexpert.com/study/)
+- [シスコ技術者認定教科書 CCNA 完全合格テキスト&問題集[対応試験]200-301](https://www.shoeisha.co.jp/book/detail/9784798165776)

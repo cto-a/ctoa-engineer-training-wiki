@@ -26,3 +26,8 @@ weight=30
 - [マスタリングTCP/IP　入門編（第6版）](https://www.ohmsha.co.jp/book/9784274224478/)
 - [インフラ／ネットワークエンジニアのためのネットワーク技術＆設計入門 第2版 | SBクリエイティブ](https://www.sbcr.jp/product/4797396805/)
 - [ネットワークがよくわかる教科書 | SBクリエイティブ ](https://www.sbcr.jp/product/4797393804/)
+
+Cisco 機器のコマンドや操作方法を知る。
+
+- [ネットワークエンジニアとして](https://www.infraexpert.com/study/)
+- [シスコ技術者認定教科書 CCNA 完全合格テキスト&問題集[対応試験]200-301](https://www.shoeisha.co.jp/book/detail/9784798165776)

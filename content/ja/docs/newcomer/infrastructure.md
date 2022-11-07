@@ -18,6 +18,7 @@ weight=30
 
 ## Linux
 - [新しいLinuxの教科書| SBクリエイティブ ](https://www.sbcr.jp/product/4797380941/)
+  - @nakayumc: Linuxのディストリビューションからコマンドの使い方、シェルスクリプトの書き方まで、Linuxの基礎が学べる本です。
 
 ## ネットワーク
 

@@ -43,9 +43,44 @@ Webアプリケーション入門の教材を、プログラミング言語ご�
 
 ### Perl
 
-## Relational Database入門
+- [Minimum Viable Perl](https://mvp.kablamo.org/)
+  - @kfly8 英語の記事にはなりますが、簡潔に最近のPerlの最小限にまとめています
+- [初めてのPerl | Oreilly](https://www.oreilly.co.jp/books/9784873118246/)
+  - @kfly8 初めてPerlを学ぶ方向けの定番本です
+- [Perlによるプログラミングの基礎 | はてなの教科書](https://github.com/hatena/Hatena-Textbook/blob/master/foundation-of-programming-perl.md)
+  - @kfly8 Perlでハマりがちなポイントをまとめています
 
-TODO
+## データベース入門
+
+WEbアプリケーションのデータの保存先として、データベースは頻繁に利用されます。
+
+- [TODO RDBの概要を掴むのに良い本]()
+
+
+## データベースプログラミング入門
+
+データベースを扱う方法を、各プログラミング言語ごとに紹介します。
+
+### Go
+
+### Rust
+
+### Kotlin
+
+### C#
+
+### JavaScript
+
+### Python
+
+### Ruby
+
+### PHP
+
+### Perl
+
+- [Perl によるデータベースプログラミング | はてなの教科書](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md)
+
 
 ## 演習問題1
 

@@ -35,3 +35,9 @@ Cisco 機器のコマンドや操作方法を知る。
 
 - [ネットワークエンジニアとして](https://www.infraexpert.com/study/)
 - [シスコ技術者認定教科書 CCNA 完全合格テキスト&問題集[対応試験]200-301](https://www.shoeisha.co.jp/book/detail/9784798165776)
+
+## Microsoft Azure
+
+ブラウザ上でWeb三層システムを作りながら言葉や考え方に慣れてみる。
+
+- [作りながら覚えるMicrosoft Azure入門講座（IaaS編）](https://www.udemy.com/course/microsoft-azure-iaas-part/)

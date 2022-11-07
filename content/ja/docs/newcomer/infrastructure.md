@@ -15,6 +15,9 @@ weight=30
 - [catatsuy/private-isu: 社内ISUCON](https://github.com/catatsuy/private-isu)
   - 本の題材で使われた問題
 
+## Linux
+- [新しいLinuxの教科書| SBクリエイティブ ](https://www.sbcr.jp/product/4797380941/)
+
 ## ネットワーク
 
 インターネットの仕組みをより深く知る。

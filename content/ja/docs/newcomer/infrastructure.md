@@ -42,3 +42,9 @@ Cisco 機器のコマンドや操作方法を知る。
 
 - [Web配信の技術 ―HTTPキャッシュ・リバースプロキシ・CDNを活用する：書籍案内｜技術評論社](https://gihyo.jp/book/2021/978-4-297-11925-6)
   - @catatsuy: CDNの活用方法を徹底的に解説しています。特定のCDNを紹介するのではなく、汎用的な説明なのでCDNを活用するならまずは読みたい本です。
+
+## Microsoft Azure
+
+ブラウザ上でWeb三層システムを作りながら言葉や考え方に慣れてみる。
+
+- [作りながら覚えるMicrosoft Azure入門講座（IaaS編）](https://www.udemy.com/course/microsoft-azure-iaas-part/)

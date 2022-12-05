@@ -38,7 +38,10 @@ Cisco 機器のコマンドや操作方法を知る。
 - [シスコ技術者認定教科書 CCNA 完全合格テキスト&問題集[対応試験]200-301](https://www.shoeisha.co.jp/book/detail/9784798165776)
   - @nakayumc: 通称、白本と言われている辞書みたいな本ですが、CCNA受験を考えている方はもちろん、VLANやACL、OSPFの勉強がしたい人にもおすすめです。
 
-Cisco Packet Tracer
+ネットワーク機器のシミュレーションソフト
+ - 本やWebサイトで学習も大事ですが、実際に機器にコマンドを投入して学ぶことも大事です。  
+ ネットワーク機器のシミュレーションソフトがあり、Cisco Packet TracerやGNS3などがあります。実際のネットワーク環境を構築・設定を行い実際に通信を行うことができます。  
+ また、トラブルシューティングも行うことができるためトラブルが起きた場合の対処方法を習得することができます。
+ これらは無料で利用することができるため、学習を始めるにあたりコストがかかりません。
 
-- [Cisco Packet Tracer のインストールと使い方 | SEの道標](https://milestone-of-se.nesuke.com/product/cisco/cisco-packet-tracer-install/)
-  - @nakayumc: Ciscoが無償で提供している実際に機器のコマンドが叩けるシミュレーションソフトです。本やサイトを読んでインプットするだけではなく、アウトプットも大事です。
+- [Cisco Packet Tracer | ネットワークのおべんきょしませんか？](https://www.n-study.com/cisco-packet-tracer/)

@@ -41,4 +41,4 @@ Cisco 機器のコマンドや操作方法を知る。
 Cisco Packet Tracer
 
 - [Cisco Packet Tracer のインストールと使い方 | SEの道標](https://milestone-of-se.nesuke.com/product/cisco/cisco-packet-tracer-install/)
-  - @nakayumc: Ciscoが提供している実際に機器のコマンドが叩けるシミュレーションソフトです。本やサイトを読んでインプットするだけではなく、アウトプットも大事です。
+  - @nakayumc: Ciscoが無償で提供している実際に機器のコマンドが叩けるシミュレーションソフトです。本やサイトを読んでインプットするだけではなく、アウトプットも大事です。

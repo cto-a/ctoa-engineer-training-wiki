@@ -46,6 +46,10 @@ TODOアプリの参考サイト
 React.jsについて理解する
 - [React公式](https://ja.reactjs.org/)
 - [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html)
+React.jsの重要ポイント
+    - [関数コンポーネント](https://ja.reactjs.org/tutorial/tutorial.html#function-components)[^1]
+        - [ステートフックの利用法:useState](https://ja.reactjs.org/docs/hooks-state.html)
+        - [副作用フックの利用法:useEffect](https://ja.reactjs.org/docs/hooks-effect.html)
 
 UIライブラリを使う
 - [MUI](https://mui.com/)
@@ -55,3 +59,6 @@ TODOアプリの参考サイト
 - [MDN Web Doc:React ToDoリストをはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
 
 ...
+
+[^1]: クラスコンポーネントから関数コンポーネント（Hooks:フックス）に主流になっています。サンプルや参考資料がどちらで書かれているか、判断しながら読む必要があります。
+

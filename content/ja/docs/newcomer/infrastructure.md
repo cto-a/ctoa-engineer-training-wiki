@@ -50,8 +50,10 @@ Cisco 機器のコマンドや操作方法を知る。
 
 クラウドの仕組みを深める。
 
-- [Amazon Web Services 基礎からのネットワーク＆サーバー構築　改訂3版](https://bookplus.nikkei.com/atcl/catalog/17/261530/)
 - [図解即戦力 Amazon Web Servicesのしくみと技術がこれ1冊でしっかりわかる教科書](https://gihyo.jp/book/2019/978-4-297-10889-2)
+    @nakayumc: クラウドやネットワークの基礎から、EC2、ネットワーク、データベースについて具体的なサービス名を挙げながら初心者向けにわかりやすく紹介されている本です。
+- [Amazon Web Services 基礎からのネットワーク＆サーバー構築　改訂3版](https://bookplus.nikkei.com/atcl/catalog/17/261530/)
+  - @nakayumc: 自分でネットワークやサーバーを構築できるようになるのが目的の本です。実際に構築をしながら学べる本です。
 
 ## コンテナ
 

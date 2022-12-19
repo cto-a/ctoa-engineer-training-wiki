@@ -18,6 +18,7 @@ weight=30
 
 ## Linux
 - [新しいLinuxの教科書| SBクリエイティブ ](https://www.sbcr.jp/product/4797380941/)
+  - @nakayumc: Linuxのディストリビューションからコマンドの使い方、シェルスクリプトの書き方まで、Linuxの基礎が学べる本です。
 - [O'Reilly Japan - Linuxシステムプログラミング](https://www.oreilly.co.jp/books/9784873113623/)
   - @catatsuy: Linuxカーネル上のファイルの仕組みがどうなっているのか、などLinuxカーネルの動きをしっかり説明してくれる本です。
 
@@ -36,7 +37,9 @@ weight=30
 Cisco 機器のコマンドや操作方法を知る。
 
 - [ネットワークエンジニアとして](https://www.infraexpert.com/study/)
+  - @nakayumc: 無料でCisco機器のコマンドの操作方法が学べるサイトです。
 - [シスコ技術者認定教科書 CCNA 完全合格テキスト&問題集[対応試験]200-301](https://www.shoeisha.co.jp/book/detail/9784798165776)
+  - @nakayumc: CCNA受験を考えている方はもちろん、VLANやACL、OSPFの勉強がしたい人にもおすすめです。
 
 ## CDN
 

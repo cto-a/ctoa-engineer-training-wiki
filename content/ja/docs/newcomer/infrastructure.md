@@ -45,3 +45,10 @@ Cisco 機器のコマンドや操作方法を知る。
  これらは無料で利用することができるため、学習を始めるにあたりコストがかかりません。
 
 - [Cisco Packet Tracer | ネットワークのおべんきょしませんか？](https://www.n-study.com/cisco-packet-tracer/)
+
+## クラウド
+
+クラウドの仕組みを深める。
+
+- [Amazon Web Services 基礎からのネットワーク＆サーバー構築　改訂3版](https://bookplus.nikkei.com/atcl/catalog/17/261530/)
+- [図解即戦力 Amazon Web Servicesのしくみと技術がこれ1冊でしっかりわかる教科書](https://gihyo.jp/book/2019/978-4-297-10889-2)

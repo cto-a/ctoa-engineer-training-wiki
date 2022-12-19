@@ -29,7 +29,9 @@ weight=30
   - サイトAAAA
 - チューニング系書籍
   - aaaa
-  - bbbb
+- チューニング系参考ブログ
+  - [<MySQL>クエリチューニングによる速度改善34項目](https://qiita.com/ichi_zamurai/items/fdbe3872a505c22ee431)
+  - [explainで確認するポイント（SQL速度改善）](https://zenn.dev/o2z/articles/a744523f34ac40)
 
 ### 複雑なスキーマ設計に向けて
 

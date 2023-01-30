@@ -50,3 +50,10 @@ Webアプリケーションのデータの保存先として、データベー�
 
 - [Perl Database](/newcomer/backend/perl#Database)
 
+## 参考実装
+
+実装例に触れることで、理解が深まります。
+
+- [ISUCON](https://github.com/isucon/)
+  - @kfly8 ISUCONの参考実装は、Webアプリケーションの素朴な実装例を見るのに最適だと思います。さまざまなプログラミング言語での実装があるため、得意な言語と学びたい言語を比較して学ぶこともできます。
+

@@ -1,5 +1,4 @@
-baseURL = 'https://y-matsuwitter.github.io/ctoa-engineer-training/'
-#baseURL = '/ctoa-engineer-training/'
+baseURL = 'https://cto-a.github.io/ctoa-engineer-training/'
 
 languageCode = 'ja-jp'
 contentDir = "content/ja"

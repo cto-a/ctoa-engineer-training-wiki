@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>エンジニア育成WG Wiki – 新卒・未経験エンジニア向け</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/</link><description>Recent content in 新卒・未経験エンジニア向け on エンジニア育成WG Wiki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: インフラ・DevOps</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/infrastructure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/infrastructure/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>エンジニア育成WG Wiki – 新卒・未経験エンジニア向け</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/</link><description>Recent content in 新卒・未経験エンジニア向け on エンジニア育成WG Wiki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: インフラ・DevOps</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/infrastructure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/infrastructure/</guid><description>
 &lt;h2 id="isucon">ISUCON&lt;/h2>
 &lt;p>&lt;a href="https://isucon.net/">ISUCON公式Blog&lt;/a>&lt;/p>
 &lt;p>ISUCONはLINE株式会社が運営窓口となって開催している「お題となるWebサービスを決められたレギュレーションの中で限界まで高速化を図るチューニングバトル」です。&lt;/p>
@@ -95,7 +95,7 @@
 &lt;p>ブラウザ上でWeb三層システムを作りながら言葉や考え方に慣れてみる。&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://www.udemy.com/course/microsoft-azure-iaas-part/">作りながら覚えるMicrosoft Azure入門講座（IaaS編）&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Docs: データベース</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/database/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/database/</guid><description>
+&lt;/ul></description></item><item><title>Docs: データベース</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/database/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/database/</guid><description>
 &lt;h2 id="rdb全体で学ぶべきこと">RDB全体で学ぶべきこと&lt;/h2>
 &lt;h3 id="スキーマ設計">スキーマ設計&lt;/h3>
 &lt;ul>
@@ -124,7 +124,7 @@
 &lt;li>@catatsuy: 執筆しました。MySQLを中心に実際の開発やパフォーマンスを意識した設計を学べます。&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Docs: セキュリティ</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/security/</guid><description>
+&lt;/ul></description></item><item><title>Docs: セキュリティ</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/security/</guid><description>
 &lt;ul>
 &lt;li>&lt;a href="https://www.ipa.go.jp/security/vuln/websecurity.html">安全なウェブサイトの作り方&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.sbcr.jp/product/4797393163/">体系的に学ぶ 安全なWebアプリケーションの作り方 第2版&lt;/a>
@@ -140,7 +140,7 @@
 &lt;li>@catatsuy: 現在のインターネットはTLSの利用が当たり前になりました。基礎からしっかり学べる本です。&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Docs: ネイティブアプリ</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/nativeapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/nativeapp/</guid><description/></item><item><title>Docs: バックエンド</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/</guid><description>
+&lt;/ul></description></item><item><title>Docs: ネイティブアプリ</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/nativeapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/nativeapp/</guid><description/></item><item><title>Docs: バックエンド</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/</guid><description>
 &lt;h2 id="目指すレベル">目指すレベル&lt;/h2>
 &lt;p>簡単なWebアプリケーションを一つ作りきれる。&lt;/p>
 &lt;h2 id="web入門">Web入門&lt;/h2>
@@ -162,8 +162,8 @@
 &lt;h3 id="プログラミング言語">プログラミング言語&lt;/h3>
 &lt;p>Webアプリケーションを記述するのに使われる言語をまとめています。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://cto-a.github.io/ctoa-engineer-training/newcomer/backend/go#Introduction">Go Introduction&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cto-a.github.io/ctoa-engineer-training/newcomer/backend/perl#Introduction">Perl Introduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cto-a.github.io/ctoa-engineer-training-wiki/newcomer/backend/go#Introduction">Go Introduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cto-a.github.io/ctoa-engineer-training-wiki/newcomer/backend/perl#Introduction">Perl Introduction&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="データベース入門">データベース入門&lt;/h2>
 &lt;p>Webアプリケーションのデータの保存先として、データベースは頻繁に利用されます。&lt;/p>
@@ -182,7 +182,7 @@
 &lt;h2 id="データベースプログラミング入門">データベースプログラミング入門&lt;/h2>
 &lt;p>データベースを扱う方法を、各プログラミング言語ごとに紹介します。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://cto-a.github.io/ctoa-engineer-training/newcomer/backend/perl#Database">Perl Database&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cto-a.github.io/ctoa-engineer-training-wiki/newcomer/backend/perl#Database">Perl Database&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="参考実装">参考実装&lt;/h2>
 &lt;p>実装例に触れることで、理解が深まります。&lt;/p>
@@ -192,7 +192,7 @@
 &lt;li>@kfly8 ISUCONの参考実装は、Webアプリケーションの素朴な実装例を見るのに最適だと思います。さまざまなプログラミング言語での実装があるため、得意な言語と学びたい言語を比較して学ぶこともできます。&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Docs: バックエンド/Go</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/go/</guid><description>
+&lt;/ul></description></item><item><title>Docs: バックエンド/Go</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/go/</guid><description>
 &lt;h2 id="go言語">Go言語&lt;/h2>
 &lt;h3 id="introduction">Introduction&lt;/h3>
 &lt;ul>
@@ -202,7 +202,7 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="database">Database&lt;/h3></description></item><item><title>Docs: バックエンド/Perl</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/perl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/perl/</guid><description>
+&lt;h3 id="database">Database&lt;/h3></description></item><item><title>Docs: バックエンド/Perl</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/perl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/perl/</guid><description>
 &lt;h3 id="introduction">Introduction&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://mvp.kablamo.org/">Minimum Viable Perl&lt;/a>
@@ -224,7 +224,7 @@
 &lt;h3 id="database">Database&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md">Perl によるデータベースプログラミング | はてなの教科書&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Docs: プロダクトマネジメント</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/product_management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/product_management/</guid><description>
+&lt;/ul></description></item><item><title>Docs: プロダクトマネジメント</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/product_management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/product_management/</guid><description>
 &lt;h2 id="全般">全般&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.shoeisha.co.jp/book/detail/9784798166520">プロダクトマネジメントのすべて 事業戦略・IT開発・UXデザイン・マーケティングからチーム・組織運営まで&lt;/a>
@@ -266,7 +266,7 @@
 &lt;ul>
 &lt;li>&lt;a href="https://bookplus.nikkei.com/atcl/catalog/12/P48970/">リーン・スタートアップ&lt;/a>
 　- @knsg16: 仮説検証をすばやく繰り返し、プロダクトを磨き上げる方法。新規事業を立ち上げたり、プロトタイプを作るときに参考になる本。&lt;/li>
-&lt;/ul></description></item><item><title>Docs: フロントエンド</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/frontend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/frontend/</guid><description>
+&lt;/ul></description></item><item><title>Docs: フロントエンド</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/frontend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/frontend/</guid><description>
 &lt;h2 id="目指すレベル">目指すレベル&lt;/h2>
 &lt;ul>
 &lt;li>サーバーがない状態でTODOアプリが作れる
@@ -351,7 +351,7 @@ React.jsの重要ポイント
 &lt;p>クラスコンポーネントから関数コンポーネント（Hooks:フックス）に主流になっています。サンプルや参考資料がどちらで書かれているか、判断しながら読む必要があります。&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Docs: マインドセット / ピープルマネジメント</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/mindset_people_management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/mindset_people_management/</guid><description>
+&lt;/div></description></item><item><title>Docs: マインドセット / ピープルマネジメント</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/mindset_people_management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/mindset_people_management/</guid><description>
 &lt;p>本ページは、全ての書籍を読むべきというよりも、目次などをめくりながら自分が興味を持ったものから順次お読みください。
 マインドセットに正解があるわけではありませんが、多くのエンジニアに読まれた書籍を列挙しております。&lt;/p>
 &lt;h2 id="開発者の心構え">開発者の心構え&lt;/h2>
@@ -420,7 +420,7 @@ React.jsの重要ポイント
 &lt;p>エンジニアとして成長するには、切磋琢磨する仲間やより進んだ知識を発信している先達との交流も重要な取り組みとなります。&lt;/p>
 &lt;ul>
 &lt;li>TODO: コンテンツ探す&lt;/li>
-&lt;/ul></description></item><item><title>Docs: 開発プロセス</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/process/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/process/</guid><description>
+&lt;/ul></description></item><item><title>Docs: 開発プロセス</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/process/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/process/</guid><description>
 &lt;h2 id="gitgithubの使い方">Git・Githubの使い方&lt;/h2>
 &lt;ul>
 &lt;li>より発展したGitの使い方を学ぶ
@@ -471,7 +471,7 @@ React.jsの重要ポイント
 &lt;li>@y_matsuwitter: スクラムに関する網羅的な知識を身につけられます。&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Docs: 機械学習</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/machine_learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/machine_learning/</guid><description/></item><item><title>Docs: コーディング・設計</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/coding_design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/coding_design/</guid><description>
+&lt;/ul></description></item><item><title>Docs: 機械学習</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/machine_learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/machine_learning/</guid><description/></item><item><title>Docs: コーディング・設計</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/coding_design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/coding_design/</guid><description>
 &lt;h2 id="心得">心得&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.shuwasystem.co.jp/book/9784798046143.html">プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則&lt;/a>&lt;/li>
@@ -492,4 +492,4 @@ React.jsの重要ポイント
 &lt;li>&lt;a href="https://shop.ohmsha.co.jp/shopdetail/000000004967/">テスト駆動開発&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.ohmsha.co.jp/book/9784274226311/">ソフトウェア品質知識体系ガイド&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.ohmsha.co.jp/book/9784274224546/">リファクタリング（第2版） 既存のコードを安全に改善する&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Appendix</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/appendix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/appendix/</guid><description/></item></channel></rss>
+&lt;/ul></description></item><item><title>Docs: Appendix</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/appendix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/appendix/</guid><description/></item></channel></rss>

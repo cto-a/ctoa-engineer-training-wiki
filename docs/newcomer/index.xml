@@ -140,7 +140,75 @@
 &lt;li>@catatsuy: 現在のインターネットはTLSの利用が当たり前になりました。基礎からしっかり学べる本です。&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Docs: ネイティブアプリ</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/nativeapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/nativeapp/</guid><description/></item><item><title>Docs: バックエンド</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/</guid><description>
+&lt;/ul></description></item><item><title>Docs: ネイティブアプリ</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/nativeapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/nativeapp/</guid><description>
+&lt;h2 id="目指すレベル">目指すレベル&lt;/h2>
+&lt;ul>
+&lt;li>アプリを作るための情報を探すことができる&lt;/li>
+&lt;/ul>
+&lt;h2 id="ネイティブアプリの作る方法について">ネイティブアプリの作る方法について&lt;/h2>
+&lt;p>ネイティブアプリを大きく分けて、iOSとAndroidのスマートフォンのアプリに分かれます。それぞれの開発言語と、開発環境とアプリ配信の仕組みは大きく異なります。&lt;/p>
+&lt;h3 id="iosアプリ開発">iOSアプリ開発&lt;/h3>
+&lt;h4 id="公式">公式&lt;/h4>
+&lt;p>公式ドキュメント&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.apple.com/documentation/">Apple Developer Documentation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>公式のアプリ開発チュートリアル&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger">Develop apps for iOS&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="参考書籍">参考書籍　&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://www.sbcr.jp/product/4815604073/">詳解 Swift 第5版&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>アーキテクチャ周り&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://peaks.cc/iOS_architecture">iOSアプリ設計パターン入門&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="チュートリアル">チュートリアル&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://www.pointfree.co/">Point Free&lt;/a> レベル高めのビデオ教材&lt;/li>
+&lt;/ul>
+&lt;h3 id="androidアプリ開発">Androidアプリ開発&lt;/h3>
+&lt;h4 id="公式-1">公式&lt;/h4>
+&lt;p>公式ドキュメント&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.android.com/docs/">アプリ デベロッパー向けのドキュメント&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="クロスプラットフォームフレームワーク">クロスプラットフォームフレームワーク&lt;/h2>
+&lt;p>iOSとAndroidを同時に開発できるクロスプラットフォームと呼ばれる技術があります。
+１つの開発言語と開発環境で両方のネイティブアプリを作ることができ、FlutterやReactNative、Unityなどの色々なクロスプラットフォームがあります。
+どの技術や言語を使うかは、作るサービスや事業のフェーズ、規模感によって変わってくるので、それぞれの特徴とメリット・デメリットを理解して技術選定をすることをお勧めします。&lt;/p>
+&lt;h3 id="flutterで作るアプリ開発">Flutterで作るアプリ開発&lt;/h3>
+&lt;h4 id="公式-2">公式&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.flutter.dev/">Flutter documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@flutterdev">Youtube Flutter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/FlutterDev">Twitter Flutter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/flutter">Medium Flutter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="参考書籍-1">参考書籍　&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/01_chapter0_aboutme">Flutter実践入門&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zenn.dev/riscait/books/flutter-riverpod-practical-introduction">Flutter x Riverpod でアプリ開発！実践入門&lt;/a> サンプルアプリ&lt;/li>
+&lt;/ul>
+&lt;h4 id="参考サイト">参考サイト&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://medium.com/flutter-jp">Flutter 日本語記事&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="react-native">React Native&lt;/h3>
+&lt;h4 id="公式-3">公式&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://reactnative.dev/docs/getting-started">React Native公式 Introduction&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="参考書籍-2">参考書籍　&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://book.mynavi.jp/ec/products/detail/id=92636">React Native＋Expoではじめるスマホアプリ開発 JavaScriptによるアプリ構築の実際&lt;/a>
+&lt;ul>
+&lt;li>@knsg16: React.jsの経験、Web開発の知識がある人がはじめてネイティブアプリを作る際におすすめ。ネイティブアプリ特有の配信についての記載もある。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Docs: バックエンド</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/</guid><description>
 &lt;h2 id="目指すレベル">目指すレベル&lt;/h2>
 &lt;p>簡単なWebアプリケーションを一つ作りきれる。&lt;/p>
 &lt;h2 id="web入門">Web入門&lt;/h2>

@@ -1,0 +1,495 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>エンジニア育成WG Wiki – 新卒・未経験エンジニア向け</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/</link><description>Recent content in 新卒・未経験エンジニア向け on エンジニア育成WG Wiki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: インフラ・DevOps</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/infrastructure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/infrastructure/</guid><description>
+&lt;h2 id="isucon">ISUCON&lt;/h2>
+&lt;p>&lt;a href="https://isucon.net/">ISUCON公式Blog&lt;/a>&lt;/p>
+&lt;p>ISUCONはLINE株式会社が運営窓口となって開催している「お題となるWebサービスを決められたレギュレーションの中で限界まで高速化を図るチューニングバトル」です。&lt;/p>
+&lt;p>まずはWebアプリケーションのインフラを触ってみるのにISUCONの問題は最適です。理由としては&lt;/p>
+&lt;ul>
+&lt;li>アプリケーションの規模が初心者が作るアプリケーションより大きく、業務アプリケーションより小さいくらいの適度なサイズ&lt;/li>
+&lt;li>問題によっては各種クラウドサービスやDockerで起動できるようになっており、動かすハードルが低い&lt;/li>
+&lt;/ul>
+&lt;p>などがあります。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://isucon.net/archives/54946542.html">ISUCONの過去問にチャレンジするためのシンプルな環境構築 : ISUCON公式Blog&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: ISUCONの過去問の環境構築がまとまったリンク集&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://gihyo.jp/book/2022/978-4-297-12846-3">達人が教えるWebパフォーマンスチューニング 〜ISUCONから学ぶ高速化の実践：書籍案内｜技術評論社&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: 執筆しました。初学者はまず問題を解いてみて、付録Aで不足している知識を確認してから読むと読みやすいと思います。ISUCONに直接関係ないインフラや運用についても言及しています&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/tatsujin-web-performance/tatsujin-web-performance">tatsujin-web-performance/tatsujin-web-performance: 達人が教えるWebパフォーマンスチューニング〜ISUCONから学ぶ高速化の実践&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/catatsuy/private-isu">catatsuy/private-isu: 社内ISUCON&lt;/a>
+&lt;ul>
+&lt;li>本の題材で使われた問題&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="linux">Linux&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.sbcr.jp/product/4797380941/">新しいLinuxの教科書| SBクリエイティブ &lt;/a>
+&lt;ul>
+&lt;li>@nakayumc: Linuxのディストリビューションからコマンドの使い方、シェルスクリプトの書き方まで、Linuxの基礎が学べる本です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873113623/">O&amp;rsquo;Reilly Japan - Linuxシステムプログラミング&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: Linuxカーネル上のファイルの仕組みがどうなっているのか、などLinuxカーネルの動きをしっかり説明してくれる本です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="ネットワーク">ネットワーク&lt;/h2>
+&lt;p>インターネットの仕組みをより深く知る。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.ohmsha.co.jp/book/9784274224478/">マスタリングTCP/IP　入門編（第6版）&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: TCP/IPと言えばこの本。インフラに興味があれば1度目を通してみるとよいと思います。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.sbcr.jp/product/4797396805/">インフラ／ネットワークエンジニアのためのネットワーク技術＆設計入門 第2版 | SBクリエイティブ&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: 実際にインフラ構築をしようとすると色々悩むと思います。そういう人におすすめです。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.sbcr.jp/product/4797393804/">ネットワークがよくわかる教科書 | SBクリエイティブ &lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Cisco 機器のコマンドや操作方法を知る。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.infraexpert.com/study/">ネットワークエンジニアとして&lt;/a>
+&lt;ul>
+&lt;li>@nakayumc: 無料でCisco機器のコマンドの操作方法が学べるサイトです。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.shoeisha.co.jp/book/detail/9784798165776">シスコ技術者認定教科書 CCNA 完全合格テキスト&amp;amp;問題集[対応試験]200-301&lt;/a>
+&lt;ul>
+&lt;li>@nakayumc: CCNA受験を考えている方はもちろん、VLANやACL、OSPFの勉強がしたい人にもおすすめです。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="cdn">CDN&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gihyo.jp/book/2021/978-4-297-11925-6">Web配信の技術 ―HTTPキャッシュ・リバースプロキシ・CDNを活用する：書籍案内｜技術評論社&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: CDNの活用方法を徹底的に解説しています。特定のCDNを紹介するのではなく、汎用的な説明なのでCDNを活用するならまずは読みたい本です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="クラウド">クラウド&lt;/h2>
+&lt;p>クラウドの仕組みを深める。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://gihyo.jp/book/2019/978-4-297-10889-2">図解即戦力 Amazon Web Servicesのしくみと技術がこれ1冊でしっかりわかる教科書&lt;/a>
+@nakayumc: クラウドやネットワークの基礎から、EC2、ネットワーク、データベースについて具体的なサービス名を挙げながら初心者向けにわかりやすく紹介されている本です。&lt;/li>
+&lt;li>&lt;a href="https://bookplus.nikkei.com/atcl/catalog/17/261530/">Amazon Web Services 基礎からのネットワーク＆サーバー構築　改訂3版&lt;/a>
+&lt;ul>
+&lt;li>@nakayumc: 自分でネットワークやサーバーを構築できるようになるのが目的の本です。実際に構築をしながら学べる本です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="コンテナ">コンテナ&lt;/h2>
+&lt;p>コンテナ技術について知る。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://gihyo.jp/book/2018/978-4-297-10033-9">Docker/Kubernetes 実践コンテナ開発入門&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="microsoft-azure">Microsoft Azure&lt;/h2>
+&lt;p>ブラウザ上でWeb三層システムを作りながら言葉や考え方に慣れてみる。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.udemy.com/course/microsoft-azure-iaas-part/">作りながら覚えるMicrosoft Azure入門講座（IaaS編）&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Docs: データベース</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/database/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/database/</guid><description>
+&lt;h2 id="rdb全体で学ぶべきこと">RDB全体で学ぶべきこと&lt;/h2>
+&lt;h3 id="スキーマ設計">スキーマ設計&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873115894/">O&amp;rsquo;Reilly Japan - SQLアンチパターン&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: 開発をし始めたけど、テーブル設計がよく分からない、というレベルの人におすすめです。この設計はダメなんだ！という発見があると思います。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://gihyo.jp/book/2019/978-4-297-10408-5">失敗から学ぶ RDBの正しい歩き方：書籍案内｜技術評論社&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: データベースを使いこなそうと思うと色々罠があります。その辺りを学びたい方におすすめです。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="インデックス">インデックス&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://sql-performance-explained.jp/">SQLパフォーマンス詳解&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="トランザクションとロック">トランザクションとロック&lt;/h3>
+&lt;h2 id="実践">実践&lt;/h2>
+&lt;h3 id="isucon">ISUCON&lt;/h3>
+&lt;p>ISUCONの問題が手軽に実践できるのでおすすめ。インフラのページを参照。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://gihyo.jp/book/2022/978-4-297-12846-3">達人が教えるWebパフォーマンスチューニング 〜ISUCONから学ぶ高速化の実践：書籍案内｜技術評論社&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: 執筆しました。MySQLを中心に実際の開発やパフォーマンスを意識した設計を学べます。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Docs: セキュリティ</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/security/</guid><description>
+&lt;ul>
+&lt;li>&lt;a href="https://www.ipa.go.jp/security/vuln/websecurity.html">安全なウェブサイトの作り方&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.sbcr.jp/product/4797393163/">体系的に学ぶ 安全なWebアプリケーションの作り方 第2版&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: まずは徳丸本を読みましょう。読むのは大変だと思いますが、セキュリティの基本知識が一気に手に入ります。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="ssltls">SSL/TLS&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.lambdanote.com/products/tls">プロフェッショナルSSL/TLS – 技術書出版と販売のラムダノート&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: 現在のインターネットはTLSの利用が当たり前になりました。基礎からしっかり学べる本です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Docs: ネイティブアプリ</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/nativeapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/nativeapp/</guid><description/></item><item><title>Docs: バックエンド</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/</guid><description>
+&lt;h2 id="目指すレベル">目指すレベル&lt;/h2>
+&lt;p>簡単なWebアプリケーションを一つ作りきれる。&lt;/p>
+&lt;h2 id="web入門">Web入門&lt;/h2>
+&lt;p>Webアプリケーションを支える基礎的な技術を理解する&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web">Web入門 | mdn web docs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gihyo.jp/book/2010/978-4-7741-4204-3">Webを支える技術 ―― HTTP，URI，HTML，そしてREST | 技術評論社&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="linux入門">Linux入門&lt;/h2>
+&lt;p>Webサーバの実行環境としてよく利用されるLinuxについて、理解する&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.sbcr.jp/product/4797380941/">新しいLinuxの教科書&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="webアプリケーション開発入門">Webアプリケーション開発入門&lt;/h2>
+&lt;h3 id="web-apiの設計開発運用についての解説書">Web APIの設計、開発、運用についての解説書&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873116860/">WebAPI The Good Parts&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="プログラミング言語">プログラミング言語&lt;/h3>
+&lt;p>Webアプリケーションを記述するのに使われる言語をまとめています。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://cto-a.github.io/ctoa-engineer-training/newcomer/backend/go#Introduction">Go Introduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cto-a.github.io/ctoa-engineer-training/newcomer/backend/perl#Introduction">Perl Introduction&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="データベース入門">データベース入門&lt;/h2>
+&lt;p>Webアプリケーションのデータの保存先として、データベースは頻繁に利用されます。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://gihyo.jp/book/2015/978-4-7741-7301-6">SQL実践入門&lt;/a>
+&lt;ul>
+&lt;li>@kfly8 SQLを触れたことがない人が一通り触れるのに向いていると思います。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873115894/">SQLアンチパターン&lt;/a>
+&lt;ul>
+&lt;li>@kfly8 避けた方が良いSQLを理由と名前つきで認識できるため&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="データベースプログラミング入門">データベースプログラミング入門&lt;/h2>
+&lt;p>データベースを扱う方法を、各プログラミング言語ごとに紹介します。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://cto-a.github.io/ctoa-engineer-training/newcomer/backend/perl#Database">Perl Database&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="参考実装">参考実装&lt;/h2>
+&lt;p>実装例に触れることで、理解が深まります。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/isucon/">ISUCON&lt;/a>
+&lt;ul>
+&lt;li>@kfly8 ISUCONの参考実装は、Webアプリケーションの素朴な実装例を見るのに最適だと思います。さまざまなプログラミング言語での実装があるため、得意な言語と学びたい言語を比較して学ぶこともできます。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Docs: バックエンド/Go</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/go/</guid><description>
+&lt;h2 id="go言語">Go言語&lt;/h2>
+&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.maruzen-publishing.co.jp/item/?book_no=295039">プログラミング言語Go - 丸善出版&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: Goの作者陣の本でおすすめです。ただ古すぎるので、出版以降に追加された新機能、具体的にいうと&lt;a href="https://go.dev/blog/context">contextパッケージ&lt;/a>・&lt;a href="https://go.dev/blog/using-go-modules">Go Modules&lt;/a>・&lt;a href="https://go.dev/doc/tutorial/generics">Generics&lt;/a>については書かれていないのでキャッチアップをする必要があります。公式ブログなどでキャッチアップがおすすめです。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="database">Database&lt;/h3></description></item><item><title>Docs: バックエンド/Perl</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/perl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/backend/perl/</guid><description>
+&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://mvp.kablamo.org/">Minimum Viable Perl&lt;/a>
+&lt;ul>
+&lt;li>@kfly8 英語の記事にはなりますが、簡潔に最近のPerlの最小限にまとめています&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873118246/">初めてのPerl | Oreilly&lt;/a>
+&lt;ul>
+&lt;li>@kfly8 初めてPerlを学ぶ方向けの定番本です&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/hatena/Hatena-Textbook/blob/master/foundation-of-programming-perl.md">Perlによるプログラミングの基礎 | はてなの教科書&lt;/a>
+&lt;ul>
+&lt;li>@kfly8 Perlでハマりがちなポイントをまとめています&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="database">Database&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md">Perl によるデータベースプログラミング | はてなの教科書&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Docs: プロダクトマネジメント</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/product_management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/product_management/</guid><description>
+&lt;h2 id="全般">全般&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.shoeisha.co.jp/book/detail/9784798166520">プロダクトマネジメントのすべて 事業戦略・IT開発・UXデザイン・マーケティングからチーム・組織運営まで&lt;/a>
+&lt;ul>
+&lt;li>@knsg16: プロダクトマネジメントとは？プロダクトマネジメントは何をすればいいのかわからないといった人たちにおすすめです。幅広い分野をカバーしているので、辞書代わりに基本に立ち戻る時にもおすすめできる書籍です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="uiux">UIUX&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://books.mdn.co.jp/books/3215303004/">なるほどデザイン&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>@knsg16: 非デザイナーがデザインとはなにか？を理解することができる。イラストが多く説明のシンプルでわかりやすい。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.shoeisha.co.jp/book/detail/9784798155456">UIデザインの教科書［新版］ マルチデバイス時代のインターフェース設計&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>@knsg16: UIデザインっていうと、感覚的な世界をイメージしてしまうが、かなり論理的な世界であると理解できる。デバイス毎の差についても詳しく説明しているので、Webエンジニアが理解しておいても損がない内容&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.shoeisha.co.jp/book/detail/9784798143330">Web制作者のためのUXデザインをはじめる本 ユーザビリティ評価からカスタマージャーニーマップまで&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>@knsg16: UXデザインの基本を学べる。体験をデザインするということを体系的に学んだことがない人がはじめて読むのにおすすめ。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="グロースハック">グロースハック&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://bookplus.nikkei.com/atcl/catalog/18/P55820/">Hacking Growth　グロースハック完全読本&lt;/a>
+&lt;ul>
+&lt;li>@knsg16: データに基づいた分析し、ビジネスを改善する。その成功事例が豊富&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="mvp">MVP&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://bookplus.nikkei.com/atcl/catalog/12/P48970/">リーン・スタートアップ&lt;/a>
+　- @knsg16: 仮説検証をすばやく繰り返し、プロダクトを磨き上げる方法。新規事業を立ち上げたり、プロトタイプを作るときに参考になる本。&lt;/li>
+&lt;/ul></description></item><item><title>Docs: フロントエンド</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/frontend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/frontend/</guid><description>
+&lt;h2 id="目指すレベル">目指すレベル&lt;/h2>
+&lt;ul>
+&lt;li>サーバーがない状態でTODOアプリが作れる
+&lt;ul>
+&lt;li>HTML、CSS、JavasScriptな状態でTODOアプリを作る
+&lt;ul>
+&lt;li>HTMLでタグ構造を組める&lt;/li>
+&lt;li>CSSでデザインを作れる&lt;/li>
+&lt;li>JSで処理を組める&lt;/li>
+&lt;li>TODOアプリのサンプル&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>仮想DOM(React.js)を使ってTODOアプリを作る
+&lt;ul>
+&lt;li>React.js の基礎を理解できる
+-　UIライブラリを使える&lt;/li>
+&lt;li>TODOアプリのサンプル&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>などなど、アプリを一つ作りきれる。&lt;/p>
+&lt;h2 id="htmlを構成するウェブの基礎">HTMLを構成するウェブの基礎&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web">ウェブ入門&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="html">HTML&lt;/h3>
+&lt;p>HTMLについて理解する&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/HTML_basics">MDN Web Docs:HTML の基本&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/HTML">HTML の学習: ガイドとチュートリアル&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.tohoho-web.com/www.htm">とほほのWWW入門&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="css">CSS&lt;/h3>
+&lt;p>CSSについて理解する&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/CSS_basics">MDN Web Doc:CSS の基本&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/CSS">CSS の学習: ガイドとチュートリアル&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="javascript">JavaScript&lt;/h3>
+&lt;p>JavaScriptについて理解する&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/JavaScript_basics">MDN Web Doc:JavaScript の基本&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/JavaScript">JavaScript の学習: ガイドとチュートリアル&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="todoアプリのサンプル">TODOアプリのサンプル&lt;/h3>
+&lt;p>TODOアプリの参考サイト&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://m-kenomemo.com/todo-list/">えむ家のメモ帳:プラグインを使わずにTODOリストを作成しました&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="仮想domreactjsの作成">仮想DOM(React.js)の作成&lt;/h2>
+&lt;p>React.jsについて理解する&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://ja.reactjs.org/">React公式&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ja.reactjs.org/tutorial/tutorial.html">チュートリアル：React の導入&lt;/a>
+React.jsの重要ポイント
+&lt;ul>
+&lt;li>&lt;a href="https://ja.reactjs.org/tutorial/tutorial.html#function-components">関数コンポーネント&lt;/a>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>
+&lt;ul>
+&lt;li>&lt;a href="https://ja.reactjs.org/docs/hooks-state.html">ステートフックの利用法:useState&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ja.reactjs.org/docs/hooks-effect.html">副作用フックの利用法:useEffect&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>UIライブラリを使う&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://mui.com/">MUI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="todoアプリのサンプル-1">TODOアプリのサンプル&lt;/h3>
+&lt;p>TODOアプリの参考サイト&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning">MDN Web Doc:React ToDoリストをはじめる&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&amp;hellip;&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>クラスコンポーネントから関数コンポーネント（Hooks:フックス）に主流になっています。サンプルや参考資料がどちらで書かれているか、判断しながら読む必要があります。&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Docs: マインドセット / ピープルマネジメント</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/mindset_people_management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/mindset_people_management/</guid><description>
+&lt;p>本ページは、全ての書籍を読むべきというよりも、目次などをめくりながら自分が興味を持ったものから順次お読みください。
+マインドセットに正解があるわけではありませんが、多くのエンジニアに読まれた書籍を列挙しております。&lt;/p>
+&lt;h2 id="開発者の心構え">開発者の心構え&lt;/h2>
+&lt;p>職業エンジニアとして日々開発をする中で備えておくべきマインドセットについて。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873116303/">Team Geek&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 良いチーム文化を育てるためのHRTなどの考え方を学ぶことが出来ます。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873119656/">Googleのソフトウェア・エンジニアリング&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: Google社の開発プロセスや考え方、具体的なエンジニアリングまで広く学べる一冊&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.ohmsha.co.jp/book/9784274226298/">達人プログラマー&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: ソフトウェアを開発する上での心構えを100個のtipsとしてまとめた一冊、適宜振り返りたい。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="ピープルマネジメント--チーム開発">ピープルマネジメント / チーム開発&lt;/h2>
+&lt;p>チームでソフトウェアを開発するということや、その過程で考えるべき人の関わり方、人のマネジメントについて学べるコンテンツを用意しました。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://bookplus.nikkei.com/atcl/catalog/13/P85240/">ピープルウェア&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 「ソフトウェア開発上の問題の多くは、技術的というより社会学的なものである」という名言を残したソフトウェアと人のあり方を書いた本。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873119946/">エンジニアリングマネージャーのしごと&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter : マネジメントとしての取り組みが概観できる良書です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.php.co.jp/books/detail.php?isbn=978-4-569-54136-5">心理学的経営&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 人をマネジメントすることについて、リクルート社のマネジメントをベースに体系的に学べる本。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://bookplus.nikkei.com/atcl/catalog/17/P55010/">High Output Management&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: パフォーマンス高い組織をどのように作るか、古い書籍ですが未だソフトウェア開発組織の中でも生きる考え方を得られます。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="キャリア">キャリア&lt;/h2>
+&lt;p>長い人生の中でエンジニアとしてどのようにキャリアを選択すべきか、その指針や成長の仕方などを先人に学びましょう。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://shop.ohmsha.co.jp/shopdetail/000000001848/">情熱プログラマー&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 一人のエンジニアとして、自分をプロダクトと考えたならどう磨き上げていくか？という問いについて。市場選びなどキャリアをどう歩むべきか視点を得られます。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873118482/">エンジニアのためのマネジメントキャリアパス&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: エンジニアとして、特にマネジメントの方面でキャリアを上がっていくことを具体的に学べます。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://bookplus.nikkei.com/atcl/catalog/16/P51550/">SOFT SKILLS&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 情熱プログラマーと同じく、職業エンジニアとして納得いく成果を上げていくためのアドバイスが得られる本。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="コミュニティ">コミュニティ&lt;/h2>
+&lt;p>エンジニアとして成長するには、切磋琢磨する仲間やより進んだ知識を発信している先達との交流も重要な取り組みとなります。&lt;/p>
+&lt;ul>
+&lt;li>TODO: コンテンツ探す&lt;/li>
+&lt;/ul></description></item><item><title>Docs: 開発プロセス</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/process/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/process/</guid><description>
+&lt;h2 id="gitgithubの使い方">Git・Githubの使い方&lt;/h2>
+&lt;ul>
+&lt;li>より発展したGitの使い方を学ぶ
+&lt;ul>
+&lt;li>&lt;a href="https://progit-ja.github.io/#book">Pro Git&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Githubの使い方を学ぶ
+&lt;ul>
+&lt;li>&lt;a href="https://gihyo.jp/book/2014/978-4-7741-6366-6">Github実践入門&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="アジャイル開発">アジャイル開発&lt;/h2>
+&lt;p>小さく素早くリリースしながら価値検証して行くアジャイル開発のあり方について。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://agilemanifesto.org/iso/ja/manifesto.html">アジャイルソフトウェア宣言&lt;/a>
+&lt;ul>
+&lt;li>アジャイルな開発のあり方を定義した宣言書。&lt;/li>
+&lt;li>上記に関するIPAによる解説 &lt;a href="https://www.ipa.go.jp/files/000065601.pdf">アジャイルソフトウェア開発宣言の読みとき方&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.kadokawa.co.jp/product/302007001102/">Clean Agile&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: アジャイルマニフェスト創設者の一人が書いた、アジャイルへの向き合い方を書いた一冊。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://shop.ohmsha.co.jp/shopdetail/000000001901/">アジャイルサムライ&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 同じく、アジャイルについての取っ掛かりを得たい方へ。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://shop.ohmsha.co.jp/shopdetail/000000004967/">テスト駆動開発&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: Test Driven Developmentの基礎を学ぶ。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="スクラム">スクラム&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.shoeisha.co.jp/book/detail/9784798167282">スクラム・ブートキャンプ&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 初めてチームでスクラム開発する際おすすめしている本です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.shoeisha.co.jp/book/detail/9784798130507">エッセンシャル スクラム&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: スクラムに関する網羅的な知識を身につけられます。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Docs: 機械学習</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/machine_learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/machine_learning/</guid><description/></item><item><title>Docs: コーディング・設計</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/coding_design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/coding_design/</guid><description>
+&lt;h2 id="心得">心得&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.shuwasystem.co.jp/book/9784798046143.html">プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="オブジェクト指向">オブジェクト指向&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://bookplus.nikkei.com/atcl/catalog/21/S00180/">オブジェクト指向でなぜつくるのか 第３版&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.sbcr.jp/product/4815609801/">Java言語で学ぶデザインパターン入門第3版&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="設計論">設計論&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.shoeisha.co.jp/book/detail/9784798126708">エリック・エヴァンスのドメイン駆動設計&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kadokawa.co.jp/product/301806000678/">Clean Architecture 達人に学ぶソフトウェアの構造と設計&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gihyo.jp/dp/ebook/2017/978-4-7741-9122-5">かんたん UML入門［改訂2版］&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="テスト品質">テスト・品質&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://shop.ohmsha.co.jp/shopdetail/000000004967/">テスト駆動開発&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ohmsha.co.jp/book/9784274226311/">ソフトウェア品質知識体系ガイド&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ohmsha.co.jp/book/9784274224546/">リファクタリング（第2版） 既存のコードを安全に改善する&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Docs: Appendix</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/appendix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/newcomer/appendix/</guid><description/></item></channel></rss>

@@ -1,0 +1,13 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>エンジニア育成WG Wiki – 本Wikiについて</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/about/</link><description>Recent content in 本Wikiについて on エンジニア育成WG Wiki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="https://cto-a.github.io/ctoa-engineer-training/docs/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 本Wikiへのコントリビュート方法</title><link>https://cto-a.github.io/ctoa-engineer-training/docs/about/contributing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training/docs/about/contributing/</guid><description>
+&lt;h2 id="本wikiの編集提案について">本Wikiの編集提案について&lt;/h2>
+&lt;p>本Wikiは&lt;a href="https://github.com/cto-a/ctoa-engineer-training-wiki">cto-a/ctoa-engineering-training-wiki&lt;/a>にて管理されています。
+内容に追加や編集などの提案がある場合、こちらのrepositoryに対してPull Requestの形でご提案をお願いします。&lt;/p>
+&lt;h2 id="執筆方針">執筆方針&lt;/h2>
+&lt;p>本Wikiは学習に役立つコンテンツのリンク集という形となっており、執筆にあたってはリンクと、任意でそれを推薦するコメントを記載する方針としています。
+また現状は、初学者へおすすめする &lt;strong>書籍&lt;/strong> を中心に掲載する方針となっており、Web上の記事よりも書籍の掲載を優先していただきたくお願いします。
+各言語やフレームワークの公式ページ、それらに準ずるだけの学習用コンテンツ、また他に同様のコンテンツがなくやむを得ない場合については例外的に許容している場合があります。&lt;/p>
+&lt;p>書籍以外の有償Webサービスやプログラミングスクールへのリンクは避け、無償・低コストでアクセスしやすいコンテンツを中心に紹介しています。
+今後、この執筆方針についても運用される中で改善・変更がなされていきます。&lt;/p>
+&lt;h2 id="pull-requestの取り込みについて">Pull Requestの取り込みについて&lt;/h2>
+&lt;p>Pull RequestのMergeについては、本Wikiにボランティアとして参加している日本CTO協会の有志にて確認した後Mergeされます。&lt;/p>
+&lt;p>執筆方針に沿わないPull RequestについてはRejectすることもございます。予めご了承ください。&lt;/p></description></item></channel></rss>

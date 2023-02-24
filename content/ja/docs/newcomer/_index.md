@@ -8,24 +8,24 @@ weight=30
 ここからは各専門について個別にまとめていきますので、ご自身の目指す専門性に応じて選択してください。
 
 ### バックエンドエンジニアを目指すなら
-- [backend]({{< ref "docs/newcomer/backend" >}})
-- [DB]({{< ref "docs/newcomer/database" >}})
+- [バックエンド]({{< ref "docs/newcomer/backend" >}})
+- [データベース]({{< ref "docs/newcomer/database" >}})
 - [セキュリティ]({{< ref "docs/newcomer/security" >}})
 - [開発プロセス]({{< ref "docs/newcomer/process" >}})
-- [マインドセット]({{< ref "docs/newcomer/mindset_people_management" >}})
+- [マインドセット / ピープルマネジメント]({{< ref "docs/newcomer/mindset_people_management" >}})
 
 ### フロントエンドエンジニアを目指すなら
-- [frontend]({{< ref "docs/newcomer/frontend" >}})
+- [フロントエンド]({{< ref "docs/newcomer/frontend" >}})
 - [セキュリティ]({{< ref "docs/newcomer/security" >}})
 - [開発プロセス]({{< ref "docs/newcomer/process" >}})
-- [マインドセット]({{< ref "docs/newcomer/mindset_people_management" >}})
+- [マインドセット / ピープルマネジメント]({{< ref "docs/newcomer/mindset_people_management" >}})
 
 ### インフラエンジニアを目指すなら
 - [セキュリティ]({{< ref "docs/newcomer/security" >}})
 - [開発プロセス]({{< ref "docs/newcomer/process" >}})
-- [マインドセット]({{< ref "docs/newcomer/mindset_people_management" >}})
+- [マインドセット / ピープルマネジメント]({{< ref "docs/newcomer/mindset_people_management" >}})
 
 
 ## 各社のインターン課題に触れてみる
-- [PRTimes](https://github.com/PRTIMES/intern)
+- [PR TIMES](https://github.com/PRTIMES/intern)
     - まずは動かして見るところから。

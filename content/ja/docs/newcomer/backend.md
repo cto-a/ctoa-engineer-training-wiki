@@ -12,7 +12,7 @@ weight=30
 
 Webアプリケーションを支える基礎的な技術を理解する
 
-- [Web入門 | mdn web docs](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)
+- [Web入門 | MDN Web Docs](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)
 - [Webを支える技術 ―― HTTP，URI，HTML，そしてREST | 技術評論社](https://gihyo.jp/book/2010/978-4-7741-4204-3)
 
 ## Linux入門

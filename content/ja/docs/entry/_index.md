@@ -18,7 +18,6 @@ weight=20
     - エラーメッセージをそのままGoogleの検索ボックスに入れてみましょう。
 - 英語の資料も活用しよう
     - Google翻訳やDeepLを活用すれば、英語が苦手でも学べます。
-- ！！その他、学び方の本とか…
 
 ## 1. プログラミングを始める
 
@@ -26,17 +25,17 @@ weight=20
 まずはどの言語でも良いので触ってみることから始めましょう。
 
 - オンライン学習サイト
-    - [progate](https://prog-8.com/)
+    - [Progate](https://prog-8.com/)
         - プログラミング全般の入門サイト。
     - [CS50](https://cs50.jp/)
         - ハーバード大学のコンピューターサイエンス講義。
 - 入門書籍
-    - [独学プログラマー]
+    - [独学プログラマー](https://bookplus.nikkei.com/atcl/catalog/18/C92270/)
         - Pythonを中心とした入門
 
 ### 1-2. とにかくWebサイトを立ち上げてみる
 実際にWebサイトを自分のパソコン上などで動かしてみましょう。
-そのために、プログラミング言語だけでなくUnixやShellといった概念にも触れていきます。
+そのために、プログラミング言語だけでなくUNIXやShellといった概念にも触れていきます。
 
 - Webサービスとは何か知る
     - [【図解】WEBアプリケーションとは？仕組みと開発言語を解説！](https://www.kagoya.jp/howto/it-glossary/web/webapplication/)
@@ -50,11 +49,9 @@ Webサービスに欠かせないデータベースを動かしてみましょ�
 実際にSQLを書き、実際にデータを取り出し、さらにSQLを使った簡単なWebサーバを作ってみます。
 
 推薦資料
-- [progate SQL学習](https://prog-8.com/courses/sql)
-- [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial/ja)
+- [Progate SQL学習](https://prog-8.com/courses/sql)
+- [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial/ja)
 - [pixivエンジニアが教えるプログラミング入門](https://www.amazon.co.jp/dp/4061385682)
-- ！！その他、入門系を探す
-
 ## 2. 基礎知識を得る
 ### 2-1. Internetの仕組みを知る
 自分のサーバにどうやってユーザーがたどり着いてファイルを受け取っているか簡単に理解しよう。
@@ -62,7 +59,6 @@ Webサービスに欠かせないデータベースを動かしてみましょ�
 
 参考資料
 - [高校情報科｜学習サイト](https://www.johoka.jp/network)
-- ！！易しめなコンテンツを探す
 
 ### 2-2. Linuxの基礎を知る
 今後動かしていくソフトウェアは多くの場合Linuxやそれに近いOSです。
@@ -71,7 +67,6 @@ Webサービスに欠かせないデータベースを動かしてみましょ�
 - [Linux標準教科書](https://linuc.org/textbooks/linux/)
 - [Linuxコマンドリファレンス](https://gihyo.jp/book/2015/978-4-7741-7404-4)
 - [Progate CommandLine講座](https://prog-8.com/courses/commandline)
-- ！！その他Linuxのリファレンス系サイトやpaizaなどの有償コンテンツを載せる？
 
 ## 3. プログラミングの作法を学ぶ
 プログラミングを行う上で、効率的に開発するためのノウハウを学びましょう。

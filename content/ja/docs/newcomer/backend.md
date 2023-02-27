@@ -12,7 +12,7 @@ weight=30
 
 Webアプリケーションを支える基礎的な技術を理解する
 
-- [Web入門 | mdn web docs](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)
+- [Web入門 | MDN Web Docs](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)
 - [Webを支える技術 ―― HTTP，URI，HTML，そしてREST | 技術評論社](https://gihyo.jp/book/2010/978-4-7741-4204-3)
 
 ## Linux入門
@@ -23,72 +23,37 @@ Webサーバの実行環境としてよく利用されるLinuxについて、理
 
 ## Webアプリケーション開発入門
 
-Webアプリケーション入門の教材を、プログラミング言語ごとに紹介します。
+### Web APIの設計、開発、運用についての解説書
 
-### Go
+- [WebAPI The Good Parts](https://www.oreilly.co.jp/books/9784873116860/)
 
-### Rust
 
-### Kotlin
+### プログラミング言語
 
-### C#
+Webアプリケーションを記述するのに使われる言語をまとめています。
 
-### JavaScript
-
-### Python
-
-### Ruby
-
-### PHP
-
-### Perl
-
-- [Minimum Viable Perl](https://mvp.kablamo.org/)
-  - @kfly8 英語の記事にはなりますが、簡潔に最近のPerlの最小限にまとめています
-- [初めてのPerl | Oreilly](https://www.oreilly.co.jp/books/9784873118246/)
-  - @kfly8 初めてPerlを学ぶ方向けの定番本です
-- [Perlによるプログラミングの基礎 | はてなの教科書](https://github.com/hatena/Hatena-Textbook/blob/master/foundation-of-programming-perl.md)
-  - @kfly8 Perlでハマりがちなポイントをまとめています
+- [Go Introduction](/newcomer/backend/go#Introduction)
+- [Perl Introduction](/newcomer/backend/perl#Introduction)
 
 ## データベース入門
 
-WEbアプリケーションのデータの保存先として、データベースは頻繁に利用されます。
+Webアプリケーションのデータの保存先として、データベースは頻繁に利用されます。
 
-- [TODO RDBの概要を掴むのに良い本]()
-
+- [SQL実践入門](https://gihyo.jp/book/2015/978-4-7741-7301-6)
+  - @kfly8 SQLを触れたことがない人が一通り触れるのに向いていると思います。
+- [SQLアンチパターン](https://www.oreilly.co.jp/books/9784873115894/)
+  - @kfly8 避けた方が良いSQLを理由と名前つきで認識できるため
 
 ## データベースプログラミング入門
 
 データベースを扱う方法を、各プログラミング言語ごとに紹介します。
 
-### Go
+- [Perl Database](/newcomer/backend/perl#Database)
 
-### Rust
+## 参考実装
 
-### Kotlin
+実装例に触れることで、理解が深まります。
 
-### C#
-
-### JavaScript
-
-### Python
-
-### Ruby
-
-### PHP
-
-### Perl
-
-- [Perl によるデータベースプログラミング | はてなの教科書](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md)
-
-
-## 簡単なブログアプリを作る
-
-次の要件を満たすブログアプリを作ることを目指す
-
-- 要件
-  - ユーザは記事を投稿できる
-  - ユーザは投稿された記事を誰でも閲覧できる
-- 用語
-  - 記事は、タイトル、記事の本文、記事の投稿時刻を保持します
+- [ISUCON](https://github.com/isucon/)
+  - @kfly8 ISUCONの参考実装は、Webアプリケーションの素朴な実装例を見るのに最適だと思います。さまざまなプログラミング言語での実装があるため、得意な言語と学びたい言語を比較して学ぶこともできます。
 

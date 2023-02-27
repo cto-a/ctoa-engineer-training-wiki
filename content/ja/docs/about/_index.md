@@ -23,5 +23,8 @@ weight=10
 ## コンテンツへ提案したい方へ
 [本Wikiへのコントリビュート方法]({{< ref "docs/about/contributing" >}})を参照ください。
 
+## Contributors
+[これまでに貢献頂いた方たち](https://github.com/cto-a/ctoa-engineer-training-wiki/graphs/contributors)
+
 ## ライセンスについて
-TBD...
+本Wikiは [CC-BY-SA 4.0](https://github.com/cto-a/ctoa-engineer-training-wiki/blob/main/LICENSE)ライセンスの元で再利用が可能です。

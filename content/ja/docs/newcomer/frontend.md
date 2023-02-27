@@ -56,7 +56,7 @@ UIライブラリを使う
 
 ### TODOアプリのサンプル
 TODOアプリの参考サイト
-- [MDN Web Docx:React ToDoリストをはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
+- [MDN Web Docs:React ToDoリストをはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
 
 ...
 

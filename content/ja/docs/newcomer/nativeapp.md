@@ -35,13 +35,13 @@ weight=30
 
 ## クロスプラットフォームフレームワーク
 iOSとAndroidを同時に開発できるクロスプラットフォームと呼ばれる技術があります。
-１つの開発言語と開発環境で両方のネイティブアプリを作ることができ、FlutterやReactNative、Unityなどの色々なクロスプラットフォームがあります。
+１つの開発言語と開発環境で両方のネイティブアプリを作ることができ、FlutterやReact Native、Unityなどの色々なクロスプラットフォームがあります。
 どの技術や言語を使うかは、作るサービスや事業のフェーズ、規模感によって変わってくるので、それぞれの特徴とメリット・デメリットを理解して技術選定をすることをお勧めします。
 
 ### Flutterで作るアプリ開発
 #### 公式
 - [Flutter documentation](https://docs.flutter.dev/)
-- [Youtube Flutter](https://www.youtube.com/@flutterdev)
+- [YouTube Flutter](https://www.youtube.com/@flutterdev)
 - [Twitter Flutter](https://twitter.com/FlutterDev)
 - [Medium Flutter](https://medium.com/flutter)
 

@@ -25,7 +25,7 @@ weight=20
 まずはどの言語でも良いので触ってみることから始めましょう。
 
 - オンライン学習サイト
-    - [progate](https://prog-8.com/)
+    - [Progate](https://prog-8.com/)
         - プログラミング全般の入門サイト。
     - [CS50](https://cs50.jp/)
         - ハーバード大学のコンピューターサイエンス講義。
@@ -35,7 +35,7 @@ weight=20
 
 ### 1-2. とにかくWebサイトを立ち上げてみる
 実際にWebサイトを自分のパソコン上などで動かしてみましょう。
-そのために、プログラミング言語だけでなくUnixやShellといった概念にも触れていきます。
+そのために、プログラミング言語だけでなくUNIXやShellといった概念にも触れていきます。
 
 - Webサービスとは何か知る
     - [【図解】WEBアプリケーションとは？仕組みと開発言語を解説！](https://www.kagoya.jp/howto/it-glossary/web/webapplication/)
@@ -49,8 +49,8 @@ Webサービスに欠かせないデータベースを動かしてみましょ�
 実際にSQLを書き、実際にデータを取り出し、さらにSQLを使った簡単なWebサーバを作ってみます。
 
 推薦資料
-- [progate SQL学習](https://prog-8.com/courses/sql)
-- [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial/ja)
+- [Progate SQL学習](https://prog-8.com/courses/sql)
+- [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial/ja)
 - [pixivエンジニアが教えるプログラミング入門](https://www.amazon.co.jp/dp/4061385682)
 ## 2. 基礎知識を得る
 ### 2-1. Internetの仕組みを知る

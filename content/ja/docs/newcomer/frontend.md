@@ -6,14 +6,14 @@ weight=30
 
 ## 目指すレベル
 - サーバーがない状態でTODOアプリが作れる
-    - HTML、CSS、JavasScriptな状態でTODOアプリを作る
+    - HTML、CSS、JavaScriptな状態でTODOアプリを作る
         - HTMLでタグ構造を組める
         - CSSでデザインを作れる
-        - JSで処理を組める
+        - JavaScriptで処理を組める
         - TODOアプリのサンプル
     - 仮想DOM(React.js)を使ってTODOアプリを作る
         - React.js の基礎を理解できる
-        -　UIライブラリを使える
+        - UIライブラリを使える
         - TODOアプリのサンプル
 
 などなど、アプリを一つ作りきれる。
@@ -29,12 +29,12 @@ HTMLについて理解する
 
 ### CSS
 CSSについて理解する
-- [MDN Web Doc:CSS の基本](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [MDN Web Docs:CSS の基本](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [CSS の学習: ガイドとチュートリアル](https://developer.mozilla.org/ja/docs/Learn/CSS)
 
 ### JavaScript
 JavaScriptについて理解する
-- [MDN Web Doc:JavaScript の基本](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [MDN Web Docs:JavaScript の基本](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [JavaScript の学習: ガイドとチュートリアル](https://developer.mozilla.org/ja/docs/Learn/JavaScript)
 
 ### TODOアプリのサンプル
@@ -56,7 +56,7 @@ UIライブラリを使う
 
 ### TODOアプリのサンプル
 TODOアプリの参考サイト
-- [MDN Web Doc:React ToDoリストをはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
+- [MDN Web Docx:React ToDoリストをはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
 
 ...
 

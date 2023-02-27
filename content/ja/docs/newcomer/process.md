@@ -4,12 +4,12 @@ description="チームで開発を進めるための方法論"
 weight=30
 +++
 
-## Git・Githubの使い方
+## Git・GitHubの使い方
 
 - より発展したGitの使い方を学ぶ
     - [Pro Git](https://progit-ja.github.io/#book)
-- Githubの使い方を学ぶ
-    - [Github実践入門](https://gihyo.jp/book/2014/978-4-7741-6366-6)
+- GitHubの使い方を学ぶ
+    - [GitHub実践入門](https://gihyo.jp/book/2014/978-4-7741-6366-6)
 
 ## アジャイル開発
 小さく素早くリリースしながら価値検証して行くアジャイル開発のあり方について。

@@ -1,4 +1,4 @@
-# CTO協会エンジニア育成WG wiki
+# 日本CTO協会エンジニア育成WG Wiki
 
 ## Overview
 本Wikiは、日本CTO協会のエンジニア育成WGを中心に作成しているエンジニア育成のサポートとなる教材リストとなります。
@@ -7,9 +7,9 @@
 ## Requirement
 - [Go](https://go.dev/doc/install)
 - CMS
-    - [hugo](https://gohugo.io/)
+    - [Hugo](https://gohugo.io/)
 - template
-    - [docsy](https://www.docsy.dev/)
+    - [Docsy](https://www.docsy.dev/)
 
 ## Usage
 ```
@@ -18,8 +18,8 @@ $ hugo serve
 ```
 
 ## Deployment
-Github Pagesによる公開を想定しています。
-そのため、今後Github Actionsによるdeployを整備予定。
+GitHub Pagesによる公開を想定しています。
+そのため、今後GitHub Actionsによるdeployを整備予定。
 参考：https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 ## Contents

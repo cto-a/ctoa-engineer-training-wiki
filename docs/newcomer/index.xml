@@ -556,7 +556,38 @@ React.jsの重要ポイント
 &lt;li>@y_matsuwitter: スクラムに関する網羅的な知識を身につけられます。&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Docs: 機械学習</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/machine_learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/machine_learning/</guid><description/></item><item><title>Docs: コーディング・設計</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/coding_design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/coding_design/</guid><description>
+&lt;/ul></description></item><item><title>Docs: 機械学習</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/machine_learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/machine_learning/</guid><description>
+&lt;h2 id="機械学習基礎">機械学習基礎&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873119472/">仕事で始める機械学習&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 機械学習をまずは仕事で使ってみる、というコンセプトで取り組みやすい入門書。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873119663/">推薦システム実践入門&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 実際のプロダクトで機械学習を使った実装を進める場合のイメージが掴める書籍です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://book.impress.co.jp/books/1120101017">Python機械学習プログラミング 達人データサイエンティストによる理論と実践&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 機械学習をシンプルな線形回帰から順を追って広く学べる書籍。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="深層学習">深層学習&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/matsuolab-edu/dl4us">DL4US&lt;/a> ※商用利用禁止
+&lt;ul>
+&lt;li>@y_matsuwitter: 深層学習で有名な松尾研究室が公開している深層学習講座です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873117584/">ゼロから作るDeep Learning&lt;/a>
+&lt;ul>
+&lt;li>@y_matsuwitter: 文字通りゼロからDeep Learningを実装しながら学ぶ入門書です。強化学習編など続編もあります。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Docs: コーディング・設計</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/coding_design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/coding_design/</guid><description>
 &lt;h2 id="心得">心得&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.shuwasystem.co.jp/book/9784798046143.html">プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則&lt;/a>&lt;/li>

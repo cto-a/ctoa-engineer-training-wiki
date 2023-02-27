@@ -28,10 +28,7 @@ weight=30
 - pt-query-digest等を活用できる。
   - サイトAAAA
 - チューニング系書籍
-  - aaaa
-- チューニング系参考ブログ
-  - [<MySQL>クエリチューニングによる速度改善34項目](https://qiita.com/ichi_zamurai/items/fdbe3872a505c22ee431)
-  - [explainで確認するポイント（SQL速度改善）](https://zenn.dev/o2z/articles/a744523f34ac40)
+  - [達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ](https://www.shoeisha.co.jp/book/detail/9784798157825)
 
 ### 複雑なスキーマ設計に向けて
 

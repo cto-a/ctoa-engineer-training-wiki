@@ -189,13 +189,13 @@
 &lt;/ul>
 &lt;h2 id="クロスプラットフォームフレームワーク">クロスプラットフォームフレームワーク&lt;/h2>
 &lt;p>iOSとAndroidを同時に開発できるクロスプラットフォームと呼ばれる技術があります。
-１つの開発言語と開発環境で両方のネイティブアプリを作ることができ、FlutterやReactNative、Unityなどの色々なクロスプラットフォームがあります。
+１つの開発言語と開発環境で両方のネイティブアプリを作ることができ、FlutterやReact Native、Unityなどの色々なクロスプラットフォームがあります。
 どの技術や言語を使うかは、作るサービスや事業のフェーズ、規模感によって変わってくるので、それぞれの特徴とメリット・デメリットを理解して技術選定をすることをお勧めします。&lt;/p>
 &lt;h3 id="flutterで作るアプリ開発">Flutterで作るアプリ開発&lt;/h3>
 &lt;h4 id="公式-2">公式&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://docs.flutter.dev/">Flutter documentation&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@flutterdev">Youtube Flutter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@flutterdev">YouTube Flutter&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://twitter.com/FlutterDev">Twitter Flutter&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://medium.com/flutter">Medium Flutter&lt;/a>&lt;/li>
 &lt;/ul>
@@ -226,7 +226,7 @@
 &lt;h2 id="web入門">Web入門&lt;/h2>
 &lt;p>Webアプリケーションを支える基礎的な技術を理解する&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web">Web入門 | mdn web docs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web">Web入門 | MDN Web Docs&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://gihyo.jp/book/2010/978-4-7741-4204-3">Webを支える技術 ―― HTTP，URI，HTML，そしてREST | 技術評論社&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="linux入門">Linux入門&lt;/h2>
@@ -368,18 +368,18 @@
 &lt;ul>
 &lt;li>サーバーがない状態でTODOアプリが作れる
 &lt;ul>
-&lt;li>HTML、CSS、JavasScriptな状態でTODOアプリを作る
+&lt;li>HTML、CSS、JavaScriptな状態でTODOアプリを作る
 &lt;ul>
 &lt;li>HTMLでタグ構造を組める&lt;/li>
 &lt;li>CSSでデザインを作れる&lt;/li>
-&lt;li>JSで処理を組める&lt;/li>
+&lt;li>JavaScriptで処理を組める&lt;/li>
 &lt;li>TODOアプリのサンプル&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>仮想DOM(React.js)を使ってTODOアプリを作る
 &lt;ul>
-&lt;li>React.js の基礎を理解できる
--　UIライブラリを使える&lt;/li>
+&lt;li>React.js の基礎を理解できる&lt;/li>
+&lt;li>UIライブラリを使える&lt;/li>
 &lt;li>TODOアプリのサンプル&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -401,13 +401,13 @@
 &lt;h3 id="css">CSS&lt;/h3>
 &lt;p>CSSについて理解する&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/CSS_basics">MDN Web Doc:CSS の基本&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/CSS_basics">MDN Web Docs:CSS の基本&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/CSS">CSS の学習: ガイドとチュートリアル&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="javascript">JavaScript&lt;/h3>
 &lt;p>JavaScriptについて理解する&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/JavaScript_basics">MDN Web Doc:JavaScript の基本&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/JavaScript_basics">MDN Web Docs:JavaScript の基本&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/JavaScript">JavaScript の学習: ガイドとチュートリアル&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="todoアプリのサンプル">TODOアプリのサンプル&lt;/h3>
@@ -438,7 +438,7 @@ React.jsの重要ポイント
 &lt;h3 id="todoアプリのサンプル-1">TODOアプリのサンプル&lt;/h3>
 &lt;p>TODOアプリの参考サイト&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning">MDN Web Doc:React ToDoリストをはじめる&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning">MDN Web Docx:React ToDoリストをはじめる&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&amp;hellip;&lt;/p>
 &lt;div class="footnotes" role="doc-endnotes">
@@ -518,16 +518,16 @@ React.jsの重要ポイント
 &lt;ul>
 &lt;li>TODO: コンテンツ探す&lt;/li>
 &lt;/ul></description></item><item><title>Docs: 開発プロセス</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/process/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/process/</guid><description>
-&lt;h2 id="gitgithubの使い方">Git・Githubの使い方&lt;/h2>
+&lt;h2 id="gitgithubの使い方">Git・GitHubの使い方&lt;/h2>
 &lt;ul>
 &lt;li>より発展したGitの使い方を学ぶ
 &lt;ul>
 &lt;li>&lt;a href="https://progit-ja.github.io/#book">Pro Git&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Githubの使い方を学ぶ
+&lt;li>GitHubの使い方を学ぶ
 &lt;ul>
-&lt;li>&lt;a href="https://gihyo.jp/book/2014/978-4-7741-6366-6">Github実践入門&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gihyo.jp/book/2014/978-4-7741-6366-6">GitHub実践入門&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>

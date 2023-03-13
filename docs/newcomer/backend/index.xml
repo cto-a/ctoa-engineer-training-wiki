@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>エンジニア育成WG Wiki – バックエンド</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/</link><description>Recent content in バックエンド on エンジニア育成WG Wiki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: バックエンド/Go</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/go/</guid><description>
+&lt;h2 id="go言語">Go言語&lt;/h2>
+&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://go.dev/tour/">A Tour of Go&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: 公式サイトです。まずはここから触れてみるとよいと思います。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.maruzen-publishing.co.jp/item/?book_no=295039">プログラミング言語Go - 丸善出版&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: Goの作者陣の本でおすすめです。ただ古すぎるので、出版以降に追加された新機能、具体的にいうと&lt;a href="https://go.dev/blog/context">contextパッケージ&lt;/a>・&lt;a href="https://go.dev/blog/using-go-modules">Go Modules&lt;/a>・&lt;a href="https://go.dev/doc/tutorial/generics">Generics&lt;/a>については書かれていないのでキャッチアップをする必要があります。公式ブログなどでキャッチアップがおすすめです。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://lets-go.alexedwards.net/">Let’s Go! A start-to-finish guide to building web apps with Go&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: 英語の電子書籍です。英語ですが読みやすいです。実際のWebアプリを作っていく体験ができます。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="database">Database&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/go-sql-driver/mysql">go-sql-driver/mysql&lt;/a>
+&lt;ul>
+&lt;li>@catatsuy: READMEに使い方が書いてあるので、GoでMySQLを扱いたい人はここを見ながらやってみましょう。それと&lt;a href="https://github.com/isucon">ISUCONの問題&lt;/a>もおすすめです。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Docs: バックエンド/Perl</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/perl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/backend/perl/</guid><description>
+&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://mvp.kablamo.org/">Minimum Viable Perl&lt;/a>
+&lt;ul>
+&lt;li>@kfly8 英語の記事にはなりますが、簡潔に最近のPerlの最小限にまとめています&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873118246/">初めてのPerl | Oreilly&lt;/a>
+&lt;ul>
+&lt;li>@kfly8 初めてPerlを学ぶ方向けの定番本です&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/hatena/Hatena-Textbook/blob/master/foundation-of-programming-perl.md">Perlによるプログラミングの基礎 | はてなの教科書&lt;/a>
+&lt;ul>
+&lt;li>@kfly8 Perlでハマりがちなポイントをまとめています&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="database">Database&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md">Perl によるデータベースプログラミング | はてなの教科書&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

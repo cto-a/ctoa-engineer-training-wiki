@@ -31,3 +31,7 @@ weight=30
 - [エッセンシャル スクラム](https://www.shoeisha.co.jp/book/detail/9784798130507)
     - @y_matsuwitter: スクラムに関する網羅的な知識を身につけられます。
 
+## エクストリーム・プログラミング
+
+- [エクストリームプログラミング](https://www.ohmsha.co.jp/book/9784274217623/)
+    - @rinchsan: エクストリームプログラミング（XP）に関する網羅的な知識を身につけられます。

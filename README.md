@@ -18,9 +18,8 @@ $ hugo serve
 ```
 
 ## Deployment
-GitHub Pagesによる公開を想定しています。
-そのため、今後GitHub Actionsによるdeployを整備予定。
-参考：https://gohugo.io/hosting-and-deployment/hosting-on-github/
+GitHub Pagesにて公開しています。
+https://cto-a.github.io/ctoa-engineer-training-wiki/
 
 ## Contents
 現状、下記構成でコンテンツを作成しています。

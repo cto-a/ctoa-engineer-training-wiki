@@ -18,6 +18,14 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;h3 id="web-application">Web Application&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.c-r.com/book/detail/1462">詳解Go言語Webアプリケーション開発&lt;/a>
+&lt;ul>
+&lt;li>@rinchsan: GoでWebアプリケーションを開発する上での基礎を網羅的に学ぶことが出来ます。2022年7月出版のため、ご覧になっているタイミングによっては新しい書籍が出ているかどうかに注意です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
 &lt;h3 id="database">Database&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/go-sql-driver/mysql">go-sql-driver/mysql&lt;/a>

@@ -15,6 +15,11 @@ weight=30
 - [Let’s Go! A start-to-finish guide to building web apps with Go](https://lets-go.alexedwards.net/)
   - @catatsuy: 英語の電子書籍です。英語ですが読みやすいです。実際のWebアプリを作っていく体験ができます。
 
+### Web Application
+
+- [詳解Go言語Webアプリケーション開発](https://www.c-r.com/book/detail/1462)
+  - @rinchsan: GoでWebアプリケーションを開発する上での基礎を網羅的に学ぶことが出来ます。2022年7月出版のため、ご覧になっているタイミングによっては新しい書籍が出ているかどうかに注意です。
+
 ### Database
 
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)

@@ -97,7 +97,6 @@
 &lt;li>&lt;a href="https://www.udemy.com/course/microsoft-azure-iaas-part/">作りながら覚えるMicrosoft Azure入門講座（IaaS編）&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: データベース</title><link>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/database/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cto-a.github.io/ctoa-engineer-training-wiki/docs/newcomer/database/</guid><description>
 &lt;h2 id="rdb全体で学ぶべきこと">RDB全体で学ぶべきこと&lt;/h2>
-&lt;h3 id="スキーマ設計">スキーマ設計&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://www.oreilly.co.jp/books/9784873115894/">O&amp;rsquo;Reilly Japan - SQLアンチパターン&lt;/a>
 &lt;ul>
@@ -109,14 +108,9 @@
 &lt;li>@catatsuy: データベースを使いこなそうと思うと色々罠があります。その辺りを学びたい方におすすめです。&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul>
-&lt;h3 id="インデックス">インデックス&lt;/h3>
-&lt;ul>
 &lt;li>&lt;a href="https://sql-performance-explained.jp/">SQLパフォーマンス詳解&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h3 id="トランザクションとロック">トランザクションとロック&lt;/h3>
-&lt;h2 id="実践">実践&lt;/h2>
-&lt;h3 id="isucon">ISUCON&lt;/h3>
+&lt;h2 id="実践編">実践編&lt;/h2>
 &lt;p>ISUCONの問題が手軽に実践できるのでおすすめ。インフラのページを参照。&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://gihyo.jp/book/2022/978-4-297-12846-3">達人が教えるWebパフォーマンスチューニング 〜ISUCONから学ぶ高速化の実践：書籍案内｜技術評論社&lt;/a>

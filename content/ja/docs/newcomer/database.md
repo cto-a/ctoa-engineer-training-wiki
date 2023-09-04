@@ -16,7 +16,9 @@ weight=30
 ### パフォーマンス
 
 - [SQLパフォーマンス詳解](https://sql-performance-explained.jp/)
+  - @yj-takashitabata: SQLのパフォーマンスについて学びたい人におすすめです。SQLのパフォーマンスを上げるための基本的な考え方や、実際にどのようにSQLを書けば良いのかが書かれています。
 - [達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ](https://www.shoeisha.co.jp/book/detail/9784798157825)
+  - @yj-takashitabata: SQLの基本的な知識を身につけた初級者から中級者にレベルアップするのに最適な本です。
 
 
 ### トランザクションとロック

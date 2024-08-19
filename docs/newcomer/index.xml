@@ -351,7 +351,7 @@
 &lt;h2 id="仮想domreactjsの作成">仮想DOM(React.js)の作成&lt;/h2>
 &lt;p>React.jsについて理解する&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://ja.reactjs.org/">React公式&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ja.react.dev/">React公式&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ja.reactjs.org/tutorial/tutorial.html">チュートリアル：React の導入&lt;/a>
 React.jsの重要ポイント
 &lt;ul>

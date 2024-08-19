@@ -44,7 +44,7 @@ TODOアプリの参考サイト
 
 ## 仮想DOM(React.js)の作成
 React.jsについて理解する
-- [React公式](https://ja.reactjs.org/)
+- [React公式](https://ja.react.dev/)
 - [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html)
 React.jsの重要ポイント
     - [関数コンポーネント](https://ja.reactjs.org/tutorial/tutorial.html#function-components)[^1]

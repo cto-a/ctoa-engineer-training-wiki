@@ -44,7 +44,7 @@ TODOアプリの参考サイト
 
 ## 仮想DOM(React.js)の作成
 React.jsについて理解する
-- [React公式](https://ja.reactjs.org/)
+- [React公式](https://ja.react.dev/)
 - [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html)
 React.jsの重要ポイント
     - [関数コンポーネント](https://ja.reactjs.org/tutorial/tutorial.html#function-components)[^1]
@@ -56,7 +56,7 @@ UIライブラリを使う
 
 ### TODOアプリのサンプル
 TODOアプリの参考サイト
-- [MDN Web Docx:React ToDoリストをはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
+- [MDN Web Docs:React ToDoリストをはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
 
 ...
 

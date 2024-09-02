@@ -14,7 +14,7 @@ title = 'エンジニア育成WG Wiki'
   [[menu.main]]
     name = "使い方"
     weight = -101
-    url = "/docs/about/howtouse/"
+    url = "/docs/about/"
   [[menu.main]]
     name = "Docs"
     weight = -100

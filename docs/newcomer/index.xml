@@ -108,7 +108,16 @@
 &lt;li>@catatsuy: データベースを使いこなそうと思うと色々罠があります。その辺りを学びたい方におすすめです。&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;a href="https://sql-performance-explained.jp/">SQLパフォーマンス詳解&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sql-performance-explained.jp/">SQLパフォーマンス詳解&lt;/a>
+&lt;ul>
+&lt;li>@yj-takashitabata: SQLのパフォーマンスについて学びたい人におすすめです。SQLのパフォーマンスを上げるための基本的な考え方や、実際にどのようにSQLを書けば良いのかが書かれています。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.shoeisha.co.jp/book/detail/9784798157825">達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ&lt;/a>
+&lt;ul>
+&lt;li>@yj-takashitabata: SQLの基本的な知識を身につけた初級者から中級者にレベルアップするのに最適な本です。&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="実践編">実践編&lt;/h2>
 &lt;p>ISUCONの問題が手軽に実践できるのでおすすめ。インフラのページを参照。&lt;/p>
